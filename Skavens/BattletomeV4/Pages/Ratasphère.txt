@@ -1,0 +1,20 @@
+Alors que la plupart des machines de mort des [[:Catégorie:Clans Skryre|Clans Skryre]] sont conçues pour infliger des dégâts à distance, les '''Ratasphères''' sont beaucoup plus directes. Ces boules de mort tourbillonnantes sont envoyées contre les formations ennemies le plus rapidement possible, en ressortant de l’autre côté dans une pluie de viscères et de corps mutilés.
+
+Les premières Ratasphères ont été conçues pour creuser des tunnels, et fabriquées à partir de technologie Khazalide servant à forer la roche. Le fait que les [[Technomage|Technomages]] aient rapidement trouvé comment convertir cette technologie pour la guerre en dit long sur la nature des Skavens. À la base, une Ratasphère est d’une conception simple : une boule de métal hérissée de lames, de pointes et de crochets, avec un noyau constitué d’une batterie à [[Malepierre|malepierre]]. Une petite plate-forme, donnant accès à un panneau de contrôle minimaliste, permet à un opérateur de piloter l’engin, qui parcourt le champ de bataille avec des accélérations sporadiques.
+
+Une Ratasphère en mouvement laboure le sol et projette de la terre en tous sens dans un raffut indescriptible auquel s’ajoutent les cris d’excitation de son pilote. Mais un tel spectacle n’est rien comparé au moment où l’engin percute l’adversaire. La chair est déchiquetée, le sang gicle et les os sont réduits en copeaux cartilagineux. Il n’y a presque rien qu’une Ratasphère ne puisse tuer, même les plus grands monstres.
+
+Bien qu’aucun engin des laboratoires des Clans Skryre ne soit fiable, les Ratasphères ont une réputation particulièrement funeste. Le pilote est attaché à sa machine, mais ce n’est guère une mesure de sécurité étant donné la propension de la chaîne à se prendre dans les lames et à provoquer la mort spectaculaire du pilote. Les Ratasphères ont également tendance à devenir incontrôlables et à percuter les régiments des Skavens, ou à exploser lorsque leur générateur surchauffe. Malgré tous ces risques, les Ratasphères attirent de nombreux candidats pour les piloter. Après tout, il est rare qu’un Skaven de rang inférieur ait l’opportunité de semer la mort à une telle échelle, aussi bien dans les rangs de ses ennemis que de ses congénères, en parcourant le champ de bataille juché sur un tel engin de mort.
+
+{{Citation AC
+|title = Les Écorcheurs de Foulblade
+|content = Les Ratasphères sont si mortelles qu’elles se vendent à prix d’or, en dépit de leur survivabilité limitée sur le champ de bataille. Peu de chefs apprécient autant ces engins que le rusé [[Krittok Foulblade]], qui investit dans des Ratasphères haut de gamme pour soutenir ses meutes de guerriers d’élite. Il estime que le coût est amplement justifié, vu le carnage ignoble que ces machines ne manquent pas de provoquer lorsqu’elles sont déployées aux côtés de ses [[Vermine de Choc|Vermines de Choc]] lourdement protégées.
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - RATASPHÈRES
+
+[[Catégorie:Machines Skavens]]
+[[Catégorie:Clans Skryre]]
+</noinclude>

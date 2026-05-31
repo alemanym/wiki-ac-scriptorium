@@ -1,0 +1,17 @@
+Les entités répugnantes nommées '''Abominations de Malefosse''' sont ce que les Skavens peuvent produire de plus étranges et de plus odieux, prouvant qu’ils sont des souillures de la réalité. Ces béhémoths sont le modelage de chair dément des [[:Catégorie:Clans Moulder|Clans Moulder]] poussé à son paroxysme : des montagnes vivantes de muscles palpitants et de viande greffée dont jaillissent une profusion d’appendices, de gueules de rongeur et d’armes biologiques et technologiques. L’existence même d’une telle créature — sans parler de sa capacité à se mouvoir et à se battre — défie l’entendement.
+
+De toute façon, les [[Maître Moulder|Maîtres Moulder]] voient la création d’une Abomination de Malefosse comme une expérience religieuse, une offrande au [[Rat Cornu|Géniteur Couinant]] qui pourrait l’inciter à sortir de sa tanière. Ils exploitent toute leur compétence pour fusionner des créatures, petites et grandes, mortes et vivantes, en un titan difforme. Titubant sur des grappes de pattes convulsantes et de roues grinçantes, l’Abomination émet une cacophonie fiévreuse. Quasiment aveugle, elle se fie à son odorat et à son ouïe pour chasser. Elle remue ses bras pour attraper ses proies ; les ennemis malchanceux saisis par une Abomination sont vite fourrés dans une de ses gueules baveuses. Les membres de certaines Abominations sont remplacés par des masses ou des braseros toxiques, qui provoquent des dégâts indicibles tandis que la créature s’agite en tous sens. Sinon, les adversaires sont sommairement aplatis sous une avalanche de chair adipeuse et scarifiée, ou transformés en viande hachée.
+
+Chaque Maître Moulder doit trouver un moyen d’éviter que ses Abominations colossales soient consumées par la [[faim noire]]. Beaucoup ont recours à l’énergie nécrotique, qui confère à la créature la capacité de se régénérer même après avoir subi les pires blessures. Grâce à cette énergie, une Abomination supposément défunte peut subitement se relever en gargouillant, ses organes animés d’un semblant de vie — ou, et c’est sans doute encore plus sinistre, sa carcasse s’effondre en un raz-de-marée de rats affamés et piaulants.
+
+{{Citation AC
+|content = « Puissant est le seigneur du Clan Dregg, dixième membre du [[Conseil des Treize]]. Innombrables et polymorphes sont les bêtes qui se tortillent dans ses fosses en [[Ghur]], faisant des Dregg les plus forts-grands de tous les [[:Catégorie:Clans Moulder|Clans Moulder]]. Zhurn croit que son génie lui vient des cervelles de choses-aelfes qu’il dévore. Il attaque souvent leurs terres, pour capturer des mages et des sages de guerre. »
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - ABOMINATION DE MALEFOSSE
+
+[[Catégorie:Forces des Skavens]]
+[[Catégorie:Clans Moulder]]
+</noinclude>

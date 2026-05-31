@@ -1,0 +1,19 @@
+Les '''Coureurs Nocturnes''' sont les fantassins des [[:Catégorie:Clans Eshin|Clans Eshin]], des meutes-tueuses entraînées pour la discrétion et la vitesse. Des épreuves brutales de sélection leur ont appris à étreindre les ombres et se déplacer vite et sans bruit. Ces humbles agents remplissent de nombreuses tâches : espions, infiltrateurs, bandits, et lorsqu’on leur en donne l’ordre, ils jouent les éclaireurs armés de dagues et d’une grande variété d’armes de jet. Les Coureurs Nocturnes sont extrêmement opportunistes. S’ils sentent la moindre faiblesse, ils s’élancent en une masse de fourrure galeuse, et se replient sournoisement dès que la résistance s’endurcit.
+
+Bien sûr, les Coureurs Nocturnes ne sont que des pions aux yeux de leurs suzerains. Ils servent de diversion pour l’ennemi, afin que des tueurs plus éminents frappent sans se faire maltraiter. Mais contrairement aux masses de chair à canon de la plupart des clans, les Coureurs Nocturnes suivent un entraînement qui leur confère un certain degré de compétence, et on s’attend donc parfois à ce qu’ils contribuent autrement que par le seul poids du nombre. C’est conforme aux traditions des Clans Eshin, chez qui l’aptitude et l’ambition doivent être démontrées pour gravir leurs rangs. Ceux qui n’excellent pas en tant que Coureurs Nocturnes sont inutiles à leurs maîtres. Et si un Skaven montre une initiative exceptionnelle en éliminant les rivaux de sa meute-tueuse sans compromettre la mission, alors c’est parfait.
+
+{{Citation AC
+|content = « Vous trouverez ci-joint un rapport complet, mon seigneur. J’avoue ma confusion. L’Archimage Githrick n’avait aucun rival au Grand Conclave de Burganvol ; après avoir repoussé le fléau des démons, il était comme le talisman de la cité. Nous avons d’abord soupçonné un culte qui aurait invoqué quelque entité pour se venger, mais Hazithar nous assure que les sceaux de la tour de l’Archimage sont fiables. La porte était fermée, la poussière sur le rebord de fenêtre est intacte, et ses gardes jurent qu’ils n’ont rien entendu alors qu’ils sont restés en poste toute la nuit. Comment donc Githrick a-t-il pu être assassiné dans sa chambre ? Notre seul indice est la rune en forme de triskèle taillée sur son front. »
+}}
+
+{{Citation AC
+|content = « Mort-mort au [[Griffarque]] Nirk, qui rallie les clans de Penultima sans la permission du [[Prophète Gris]] Vellik. Infiltrez sa suite, tuez-plantez-le devant ses lieutenants, et rappelez-leur leur devoir envers le [[Conseil des Treize|Conseil]].<br /><br />Mort-mort à Borrka, seigneur des choses-vertes de Sombrecroc, qui s’en prend aux alliés de Vellik des terriers du [[Gallet]]. Pimentez sa nourriture avec l’odeur de bêtes-proies, pour que son béhécraseur le prenne pour son prochain repas.<br /><br />Mort-mort à Mimmoth-Grimnir, seigneurs des choses-nabots des pics de Kindleheim, où brûle la précieuse braisepierre que veut Vellik. Cachez des bombes-souffles dans la roche au-dessus du hall, pour qu’elle l’écrase avec tout son clan.<br /><br />Mort-mort à Ven Merrik, qui envoie ses choses-mortes pour voler la [[Malepierre|malepierre]] du [[:Catégorie:Maîtreclan|Maîtreclan]] pour ses expériences. Attendez qu’il accomplisse ses rituels dans la nuit de Hante-qui-peut, où tout se retrouve dans l’ombre, et frappez depuis les ténèbres dont il se croit le maître.<br /><br />Mort-mort au Prophète Gris Vellik, qui présume que les lames du Clan Nakht sont à ses ordres. Glissez-vous dans son repaire de [[Vile-Ville]], remplacez son amulette de malepierre par l’objet fourni par notre client ruineux, et laissez faire les choses… »
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - COUREURS NOCTURNES
+
+[[Catégorie:Forces des Skavens]]
+[[Catégorie:Clans Eshin]]
+</noinclude>

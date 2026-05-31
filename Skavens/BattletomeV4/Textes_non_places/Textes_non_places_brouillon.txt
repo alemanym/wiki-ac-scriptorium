@@ -1,0 +1,58 @@
+= Textes non encore placés (document de travail) =
+
+Ce document regroupe les textes du tome qui n’ont pas encore été affectés à une page, chacun avec sa balise <ref>. Le <references/> en bas permet de visualiser le rendu des notes comme s’ils étaient tous sur une même page. À répartir ensuite sur les pages définitives.
+
+== Texte d’ouverture ==
+
+{{Citation AC
+|content = Notre heure est venue, oui-oui.<br /><br />Longtemps, nous avons rôdé parmi les ombres, en vous laissant voir ce que nous voulions que vous voyiez. Observant, attendant, intrigant-guettant l’heure de notre ascension. Usant la réalité, toujours plus, plus. Jusqu’à ce que la chair des mondes soit déchiquetée et que nous fondions sur vous dans toute notre gloire pendant que les cloches sonnent votre glas.<br /><br />On ne se cache plus, non-non. Vous nous voyez, et vous tremblez. Nous sommes les [[Skaven|Skavens]], les Enfants du [[Rat Cornu]], les plus puissants des êtres. Nos crocs sont acérés, nos griffes rouges de sang. Nous nous délectons de votre panique, du parfum de votre terreur. Notre génie crée des canons et des bêtes-meurtrières pour vous tuer, des pestes et des ombres pour vous défaire, et une faim si noire et infinie que nous nous gaverons-nourrirons jusqu’à vider les royaumes. Telle est la volonté du Rat Cornu. Tels sont les ordres des [[Conseil des Treize|Seigneurs de la Ruine]]. Tel est notre destin — de triompher de tous les habitants de la surface.<br /><br />Tuez-zigouillez-nous, si vous le pouvez. Un milliard nous remplaceront, sans se soucier des morts. Le chagrin, la pitié, la compassion : nous n’avons cure de ces notions. Chacun de nous que vous massacrez est un rival de moins. Chacune de vos victoires élimine ceux qui ne sont pas capables de nous commander. Pour nous, chaque instant est une bataille pour conquérir et s’élever, parce que nous sommes rusés quand vous êtes des choses-idiotes et nous sommes féroces quand vous êtes faibles. Nous connaissons la valeur de la survie, et nous savons que certains doivent être sacrifiés pour atteindre nos buts.<br /><br />Contemplez votre fin. Tremblez comme la malefoudre lacère les cieux pendant que nos nuées de guerre attaquent toutes-ensemble. Laissez le fracas des cloches briser vos esprits tandis que nous creusons-rongeons le cœur de vos pitoyables empires. Voyez les clans s’unir et le cosmos succomber sous notre nombre infini.<br /><br />Votre fin est proche, choses-hommes.<ref>AoS v4 - Tome de bataille du Chaos - SKAVENS - TEXTE D’OUVERTURE</ref>
+}}
+
+== La Grande-grande Rognehorde ==
+
+Mue par la [[faim noire]], la '''Grande-grande Rognehorde''' dévaste les royaumes. Des Skavens de nombreux [[:Catégorie:Clans et Conseils Skavens|Clans Majeurs]] font partie de cette nuée vorace. S’ils arborent des éléments de leur héraldique d’origine, tous portent des frusques d’un blanc crasseux ou une armure gris clair maculée de sang en hommage à [[Vizzik Skour]] et au [[:Catégorie:Maîtreclan|Maîtreclan]].<ref name="rognehorde">AoS v4 - Tome de bataille du Chaos - SKAVENS - LA GRANDE-GRANDE ROGNEHORDE</ref>
+
+La Rognehorde est une bande de charognards, qui confectionnent leurs tenues à partir de loques et de bannières pillées à leurs ennemis, tandis que les [[:Catégorie:Clans Skryre|Clans Skryre]] font fondre le métal de leurs adversaires pour forger des armes de guerre. Quand ils ne combattent pas, les Skavens de la Rognehorde s’entredévorent. Leur queue et leurs oreilles sont souvent entaillées et ensanglantées — même si peu d’entre eux oseraient grignoter l’un des seigneurs de guerre de Vizzik.<ref name="rognehorde" />
+
+== Planche de citations (sur la Rognehorde) ==
+
+{{Citation AC
+|content = « Le seigneur Carthalos a remporté une grande victoire à Brûlepont, mais la Rognehorde continue de frapper les montagnes. Elles semblent aussi éternelles que nous mais il n’y a plus d’âmes à leur arracher… »<ref name="planche">AoS v4 - Tome de bataille du Chaos - SKAVENS - PLANCHE DE CITATIONS</ref>
+}}
+
+{{Citation AC
+|content = « Les hommes-rats déferlent sans relâche dans nos vallées tribales ancestrales. Nous avons promis leur mort aux dieux, mais croyez-moi — si on ne les arrête pas, ils nous mangeront tout cru et porteront nos peaux ensanglantées sur leurs corps. »<ref name="planche" />
+}}
+
+{{Citation AC
+|content = « Tous les habitants des montagnes ont disparu. Le Repos du Nomade, Drumsden, Fort Charbon : tous ces gens courageux, tous ces croisés en bleu et or, dévorés par les rats. Nous sommes les prochains, et le Dieu-Roi ne peut rien pour nous… »<ref name="planche" />
+}}
+
+{{Citation AC
+|content = « Des radeaux de guerre skavens envahissent nos côtes chaque matin. Ils dévorent la moitié de leur effectif au passage mais des milliers d’autres continuent de débarquer. Par Morathi-Khaine, nous en sommes réduites à combattre aux côtés des duardins, et malgré tout, nos lames risquent d’être insuffisantes. »<ref name="planche" />
+}}
+
+{{Citation AC
+|content = « Nos machines éventrent les royaumes, oui-oui, et nous capturons ce qu’elles dévoilent. Plus-plus, faim-faim. Tout ça en guise de tribut pour le trône de [[Sorceniche]]. Bien sûr, le seigneur [[Vizzik Skour|Skour]] est judicieux. Si nous devions nous en servir pour notre usage personnel, il le lirait dans notre esprit. »<ref name="planche" />
+}}
+
+{{Citation AC
+|content = « Les gars ont tenté de dézinguer des boss rats à distance. Mais ils ont pas décampé comme ils auraient dû. Ça les a juste rendus assez furieux pour se lancer à not’poursuite. Moi j’dis jamais non à une bagarre mais ces rats, ils sont pas nets… »<ref name="planche" />
+}}
+
+{{Citation AC
+|content = « La Rognehorde attaque à travers les montagnes ou les ponts de terre ou les isthmes. Les tactiques anti-skavens conventionnelles ne fonctionnent pas contre eux ; leur voracité semble surpasser leur lâcheté. Deux bataillons restent en arrière-garde pour faciliter l’évacuation. Les malheureux. »<ref name="planche" />
+}}
+
+{{Citation AC
+|content = « Mes fidèles nuées. Ma congrégation de ruine. Tout est un banquet, une offrande au Seigneur du Grand Au-dessous, car son service est notre victoire. Rongez le monde, mes enfants, mordez dans la croûte des royaumes. Mettez-les à nu, pour sa gloire. »<ref name="planche" />
+}}
+
+== Nouvelle Callis & Toll ==
+
+{{Citation AC
+|content = « Ils n’ont pas des égoutiers pour ce genre de travail ? »<br /><br />Callis pataugeait dans l’eau putride, dont l’odeur immonde était amplifiée par la chaleur infernale qui régnait dans les égouts de Hammerhal Aqsha. Sa voix avait des échos étranges sous le plafond voûté. Il avait la bouche sèche, et pas seulement à cause de la chaleur.<br /><br />« Ils se font rares, ces temps-ci. » Toll marchait juste devant lui, une lanterne rouillée à la main. Le répurgateur regardait par-delà l’éclat de la chandelle de suif. « Avec la résurgence des hommes-rats, les Égoutiers sont nerveux. On trouve chaque jour un nouveau nid. »<ref>AoS v4 - Tome de bataille du Chaos - SKAVENS - NOUVELLE (CALLIS &amp; TOLL)</ref>
+}}
+
+== Sources ==
+<references/>

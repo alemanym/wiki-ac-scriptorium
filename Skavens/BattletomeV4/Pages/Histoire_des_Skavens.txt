@@ -1,0 +1,123 @@
+== La Volonté du Rat ==
+
+Les [[Skaven|Skavens]] manigancent depuis longtemps leur ascension. Les fondations de leur conquête remontent à l’[[Âge des Mythes]] — mais le plus grand ennemi des hommes-rats a toujours été leur nature indisciplinée.
+
+Obsédées par leur Jeu Divin après la mort du [[Monde-qui-fut]], les Puissances de la Ruine ne s’intéressèrent aux royaumes que longtemps après leur formation. Peu à peu cependant, elles braquèrent leur regard monstrueux sur ces joyaux étincelants, et commencèrent à attiser les péchés mortels et la dépravation.
+
+Mais leur naissance n’était pas passée inaperçue aux yeux avides du Grand [[Rat Cornu]]. Méprisé par ses frères divins, il eut tout le loisir de regarder le Panthéon de [[Sigmar]] guider l’avènement de la civilisation. Peu après, il déclencha une vague de cauchemars apocalyptiques qui déferlèrent dans l’esprit des mortels. Un grand nombre d’entre eux se réveillèrent en sursaut la nuit, assaillis de visions de rongeurs submergeant leurs tours dans des flots de fourrure crasseuse avant de grignoter leurs entrailles.
+
+Pendant tout ce temps, le Rat Cornu planifiait sa conquête. Dans le sous-royaume rogné appelé à devenir [[Vile-Ville]], il vomit sa progéniture, en lui ordonnant de se multiplier et de couiner. À cette époque, leur empire était caché, protégé par la sorcellerie du [[:Catégorie:Maîtreclan|Maîtreclan]] et les couteaux des [[Maîtremort|Maîtremorts]] [[:Catégorie:Clans Eshin|Eshin]]. Des [[Verminarque|Verminarques]] révélèrent la manière de créer des [[Trou de Vermine|trous de vermine]], auxquels les [[:Catégorie:Clans et Conseils Skavens|Clans Majeurs]] apportèrent leurs propres « améliorations ». Discrètement, les hommes-rats préparaient leur avènement.<ref name="volonte">AoS v4 - Tome de bataille du Chaos - SKAVENS - LA VOLONTÉ DU RAT</ref>
+
+=== Une ère de malheur ===
+
+Cette époque coïncida avec l’[[Âge du Chaos]]. En présence d’une corruption croissante, les Skavens commencèrent à conquérir des empires ou à les réduire en cendres. L’augmentation des flux d’énergie ouvrit de nouvelles possibilités pour la manipulation de la [[Malepierre|malepierre]], dont se saisirent les pionniers skavens. Ils confectionnèrent d’ignobles nids partout où ils pouvaient s’emparer du pouvoir, depuis la [[Fosse-moisie]] de [[Ghur]] et les [[Monastères Malodorants]] qui parsèment [[Ghyran]] jusqu’aux terriers ébranlés de secousses de la [[Folie de Chakrik]] au pied de la [[Chaîne Adamantine]] d’[[Aqshy]].
+
+Mais alors que leurs ennemis diminuaient, les hommes-rats se retournèrent contre les adeptes du [[Chaos]] auprès desquels ils avaient combattu, tantôt pour obtenir des territoires, tantôt pour obéir à la volonté du Rat Cornu d’empêcher ses rivaux divins de devenir trop puissants. Les légions du Chaos ripostèrent en masse, la traîtrise des hommes-rats les ayant privés de bien des alliés. Si l’ingéniosité des Skavens leur permit d’infliger de lourdes pertes, peu à peu, ils furent renvoyés dans leurs terriers.<ref name="volonte" />
+
+=== La Grande Guerre civile ===
+
+Bien sûr, les Skavens se rejetèrent la faute. Les [[Clan Ikk|Clans Ikk]] virent dans cette épreuve l’occasion de saper leurs rivaux des [[:Catégorie:Clans Verminus|Verminus]]. Alors que leur nombre déclinait sous des assauts incessants, de nombreux clans Verminus se tournèrent vers les parias des [[:Catégorie:Clans Pestilens|Clans Pestilens]]. En échange d’ignobles tributs et pactes, les [[Prêtre de la Peste|Prêtres de la Peste]] créèrent des phages qui anéantirent l’esprit des Ikk, détruisant leur Clan Majeur.
+
+Cependant, l’ascension des Pestilens alarma leurs anciens ennemis des [[:Catégorie:Clans Skryre|Clans Skryre]], qui déchaînèrent leurs Conciles Mécaniques contre les brasseurs de pestes. Les [[:Catégorie:Clans Moulder|Clans Moulder]] profitèrent pleinement de l’élevage de bêtes de guerre pour les [[Technomage|Technomages]] et leurs [[Griffarque|Griffarques]] alliés, même si de nombreux créateurs de mutants s’affrontèrent dans une lutte de pouvoirs. Les [[:Catégorie:Clans Eshin|Clans Eshin]] vendirent leurs services à tous tout en ne soutenant personne, et les médiations du Maîtreclan s’engluèrent, chaque [[Prophète Gris]] se servant du conflit pour affaiblir ses rivaux. Des décennies durant, les hommes-rats semblèrent disparaître des royaumes.
+
+Ce fut lors d’un conflit dans les entrailles difformes du [[Maître-terrier]] que la faille au cœur de la chambre du conseil s’ouvrit parmi le vacarme de milliards de griffes. Depuis les profondeurs, [[Skreech]], le plus grand serviteur démoniaque du Rat Cornu, émergea. Ne s’arrêtant que pour annihiler les [[Seigneur de la Ruine|Seigneurs de la Ruine]] responsables de cette mascarade, le Roi Rat s’assit sur le treizième trône et fit de terribles proclamations. Même si les luttes intestines des Skavens avaient amusé leur dieu et annihilé les plus faibles d’entre eux, ces querelles devaient cesser. Tous allaient désormais contribuer à un nouveau plan — un plan qui bouleverserait les royaumes.<ref name="volonte" />
+
+{{Citation AC
+|content = « Comme vous nous amusez, sournois sujets. Comme vous êtes malins-futés. Toujours à conspirer quelque malfaisance, quelque moyen d’imposer votre volonté éphémère. Nous vous avons faits à notre image, et vous ne nous avez pas déçu. Mais ce carnage futile, cette lutte vide de sens doit cesser ! Vos machinations ne distraient plus le Roi Cornu. De nouveaux engrenages tournent-bougent et les queues irritées s’unissent ! Venez-venez, je vous révélerai notre nouveau projet… »
+|sign = Skreech, Seigneur Verminarque
+}}
+
+== L’Âge du Chaos ==
+
+=== Un déferlement de ruine ===
+
+La Reine du Feu [[Garla Grummsdottr]] rallie les clans duardins de [[Prosperia]] à sa bannière et repousse les Skavens pendant plus d’une décennie. Trente années après le début de l’invasion, elle convoque un conseil de guerre dans son magmafort — mais alors que les seigneurs duardins se rassemblent, des runes d’avertissement s’embrasent et un [[Trou de Vermine|trou de vermine]] s’ouvre dans le plafond voûté, créé par le [[Verminarque]] appelé [[Lashsoul]]. D’innombrables [[Rats des Clans]] se déversent à travers la brèche. Malgré tout leur courage, les duardins sont submergés sous la masse de corps galeux.<ref name="volonte" />
+
+=== De sang et de pénombre ===
+
+Dans les brumes de la [[Convergence de Shadrac]] d’[[Ulgu]], les [[Filles de Khaine]] combattent les serviteurs de [[Slaanesh]] et les tueurs de l’ombre des [[:Catégorie:Clans Eshin|Clans Eshin]]. Des serrefielleuses se joignent aux hordes de [[Luxcious la Gardienne]] lors d’un assaut sur la capitale khainite de [[Hagg Nar]]. Les armées du Chaos sont repoussées, mais les aelfes s’aperçoivent plus tard que des reliques liées à la mystérieuse [[Toile d’Ombre]] ont été volées dans leurs cryptes.<ref name="volonte" />
+
+=== Récolte maudite ===
+
+[[Rotfang]], l’un des abjects Archichantres de la Pustulence, est capturé par les grots des [[Pics Venteux]]. Lors d’une grande cérémonie, il est offert en sacrifice à l’[[Arachnarok]] à huit pattes des grots. Mais dès que l’Arachnarok tente d’aspirer les viscères du [[Prêtre de la Peste]], elle est assaillie par la corruption et s’attaque à ses propres adeptes. Quand les acolytes de Rotfang arrivent à son secours, le Prêtre de la Peste leur ordonne d’extraire le sang infesté de l’araignée agonisante en vue d’un futur rituel, et de soumettre ses ravisseurs à la fureur de la bête.<ref name="volonte" />
+
+=== Gangrenés ===
+
+[[Warpskreech]] du [[Clan Vrrtkin]] profite de l’invasion des [[Terres Scabreuses]] de [[Ghyran]] pour déchaîner ses créations les plus démentes : les premières [[Machine Parasite|Machines Parasites]], qui polluent la terre d’écoulements de malepierre tout en s’emparant de ses ressources naturelles. Des piétines de gargants assaillent les marcheurs titanesques, mais ils sont repoussés par des batteries de [[Jezzail|Jezzails]], de [[Canon à Malefoudre|Canons à Malefoudre]] et les rayons meurtriers des Machines Parasites.<ref name="volonte" />
+
+=== L’appel du noir ===
+
+Suite à une convocation silencieuse, les [[Clan Shrykt|Clans Shrykt]] affluent dans les [[Cavernes Hurlantes]] d’[[Aqshy]]. Ils creusent un [[Trou de Vermine|trou de vermine]] jusqu’à des terres inconnues et le font s’effondrer derrière eux. Le Clan Majeur disparaît à jamais au grand plaisir, et à la stupéfaction, de ses pairs.<ref name="volonte" />
+
+== La Maleruine ==
+
+Aux prémices de l’[[Âge de Sigmar]], les Skavens œuvraient fiévreusement dans l’ombre. Négligés et méprisés tant par leurs alliés que par leurs adversaires, ils rêvaient de suprématie, leurs esprits empreints d’ordres et de visions transmis par leur divinité. Mais rares sont ceux qui pouvaient deviner jusqu’où ils iraient pour satisfaire leurs ambitions.
+
+Après des siècles passés à étendre leur domaine dément, les Skavens ont acquis une connaissance inégalée des zones souterraines des royaumes, surtout après la chute de l’[[Empire Khazalide]] duardin. Dès lors, il n’est guère étonnant qu’ils aient trouvé un moyen aussi vil que subtil de frapper la roche-mère de la création.
+
+Ce n’était un secret pour personne que des lignes telluriques traversaient les royaumes, et se croisaient à des nexus où l’énergie magique s’accumulait. Mais peu de monde savait que ces lignes telluriques s’étiraient aussi bien à la verticale qu’à l’horizontale et que des points de nexus existaient également sous terre, prêts à être exploités.
+
+Si les grots des [[Luneclans]] détenaient un savoir instinctif de ces lieux, et si le peuple de Sigmar commençait à entrevoir la réalité au fil de ses croisades, les Skavens avaient une vision très claire du phénomène. Les lignes telluriques étaient les fils cachés qui reliaient les royaumes — et à ce titre, on pouvait les ronger jusqu’à ce que tout ce qui était sain et vertueux s’effondre.<ref name="maleruine">AoS v4 - Tome de bataille du Chaos - SKAVENS - LA MALERUINE</ref>
+
+=== Un plan malin-malin ===
+
+En tant que volonté incarnée du Rat Cornu, [[Skreech]], le Seigneur Verminarque, orchestra le complot visant à effilocher les lignes telluriques et força les clans à s’unir dans ce but. Le Maîtreclan et les Clans Skryre fichèrent des éclats de malepierre dans les points de nexus déterrés par les nuées Moulder et Verminus, affaiblissant la trame de la réalité tandis que des assassins Eshin protégeaient ces activités des regards indiscrets. Pendant ce temps, les Clans Pestilens furent déployés contre les [[Séraphon|Séraphons]] — leurs plus vieux ennemis — afin de les distraire, car la sagacité des reptiliens risquait de les alerter. Des Skavens astucieux notèrent que ce déploiement éloigna de nombreux chefs de la Confrérie de la Pestilence loin de Vile-Ville, où ils avaient récemment attisé les feux d’une nouvelle guerre civile.
+
+Pendant tout ce temps bien sûr, les Clans Majeurs poursuivaient leur quête de domination, ce à quoi contribua grandement l’avènement de l’[[Ère de la Bête]]. Alors que le royaume de [[Ghur]] sombrait dans la folie et que les forces de la Destruction prenaient l’ascendant, un carnage inédit ravagea les terres — or, s’il y a une chose que les Skavens savent faire, c’est profiter du malheur d’autrui. Cependant, nul ne se montra plus hardi que l’alliance précaire des Clans Verminus et Skryre qui assaillit le bastion montagneux aqshien de l’[[Œil de la Tempête]]. Détruisant ses niveaux inférieurs avec des torpilles tirées depuis des dirigeables, les Skavens ouvrirent des trous de vermine dans la [[Montagne de la Lance du Titan]] avant de se lancer dans un corps à corps sanglant avec ses défenseurs sigmarites.
+
+Si cette incursion attira l’attention sur les hommes-rats à un moment où ils auraient préféré rester discrets, et si ses instigateurs s’attirèrent les foudres de Skreech, elle donna au [[Conseil des Treize]] le goût des démonstrations de triomphe explosives. Assaillir un bastion de la civilisation était une chose, mais pouvaient-ils démontrer leur maîtrise de manière encore plus impressionnante ? Et si Vile-Ville pouvait être utilisée comme arme, jaillissant dans les royaumes comme symbole manifeste de la suprématie des hommes-rats ? Cette suggestion remporta l’adhésion des Seigneurs de la Ruine. Après tout, cette idée avait germé du siège de l’Œil de la Tempête ; or, Sigmar considérait le [[Vaste Aride]] comme le théâtre de sa plus grande victoire. La saper serait la preuve de la supériorité des Skavens.
+
+L’œuvre se poursuivit. Depuis les cavernes de [[Gallet]] en Ghur jusqu’aux [[Terriers-mines de la Croix Spirale]] de [[Chamon]], les entrailles des royaumes palpitaient d’une lumière impie alors que les Technomages et les Prophètes Gris « lardaient » les points de nexus avec de la malepierre. Les lignes telluriques blessées tremblaient, leurs vibrations endommageant le cosmos. Dans tous les royaumes, les êtres pourvus de vision-sorcière détectèrent quelque chose d’anormal ; des [[Slann|slanns]] s’éveillèrent après des siècles de contemplation en éprouvant un profond malaise, tandis que les [[Idoneth|Idoneths]] accumulaient des âmes en prévision d’un grand malheur. Mais la ruse des Skavens, combinée aux convulsions éthériques de Ghur, empêcha leur plan d’êtres mis au jour.
+
+L’est du Vaste Aride fut désigné comme l’épicentre du futur empire des Skavens. Mais un problème avait émergé. Si les Skavens souhaitaient asservir Aqshy à leurs desseins, ils devraient inonder tant de lignes telluriques de malepierre que leurs efforts seraient sûrement remarqués. Il leur fallait des étrangers pour exécuter leurs ordres tout en gardant leur présence cachée ; et le Rat Cornu savait exactement à qui s’adresser.<ref name="maleruine" />
+
+=== Un nœud d’intrigues ===
+
+En tant que créatures du Chaos, les Skavens sont soumis au joug d’[[Archaon]] l’Élu Éternel, et leur relation est pour le moins compliquée. Les hommes-rats ne supportent pas d’avoir à obéir aux ordres d’un « chose-homme », tandis qu’Archaon a rejeté la faveur du Rat Cornu tout en acceptant celle des autres sombres puissances. Cependant, l’Élu Éternel et le Dieu Rat ne dépendent pas du Jeu Divin, ce qui rend leur coopération possible — quoiqu’explosive. Les vieilles rancunes furent mises de côté lorsque le Rat Cornu se manifesta dans la cour du [[Roi à Trois Yeux]] pour lui soumettre son plan.
+
+L’idée de bouleverser le rapport de force, et pas seulement dans les royaumes, séduisait Archaon. Le sacrifice de l’est du Vaste Aride verrait le Rat Cornu monter en puissance et devenir une présence perturbatrice qui servirait les ambitions déicides de l’Élu Éternel. Aussi Archaon chargea-t-il un grand nombre de ses séides d’aider les Skavens. Le Rat Cornu ne tolérant aucune marge d’erreur, ses Verminarques consacrèrent tous les leurs talents à l’accomplissement du Plan le Plus Magistral.
+
+Malgré tout, la duplicité des Skavens faillit signer leur perte. La méfiance des [[Noir-serment]] de la Chaîne Adamantine à leur égard vira à la haine quand ils se rendirent compte des véritables dangers de la malepierre. Menés par le célèbre [[Gunnar Brand]], ils frappèrent à la [[Folie de Chakrik]] dans une frénésie de vengeance, alors même que le plan des hommes-rats touchait à son terme. Lorsque les guerriers assermentés des Dieux Sombres cherchèrent à détruire l’une des grandes machines des Skavens, le vent tourna pour les hommes-rats.
+
+Mais ces derniers craignaient leur dieu plus que les Noir-serment. Skreech menant la défense, les Skavens repoussèrent les mortels assez longtemps pour que leur plan atteigne un point critique. D’immenses tours de cuivre alimentées par de la malepierre perforèrent la chair du cosmos, brisant le réseau magique. Les étendues orientales du Vaste Aride volèrent en éclats dans une bouffée d’énergie démoniaque alors que les flèches de Vile-Ville surgissaient dans la réalité. Dans une explosion qui souffla d’innombrables vies, la [[:Catégorie:La Rogne|Rogne]] était née.<ref name="maleruine" />
+
+== L’Âge de Sigmar ==
+
+=== Dans l’ombre de la mort ===
+
+À l’apogée du [[Temps des Vicissitudes]], [[Nagash]] prépare un rituel pour anéantir les mortels. Alors qu’il entame son sort omnicide, des agents Eshin sont dépêchés pour infiltrer sa [[Pyramide Noire]] en quête d’informations. Si les hommes-rats sont décimés, leurs âmes anarchiques à l’intérieur de la pyramide dégradent la sorcellerie. Le nécro-séisme qui en résulte est dévastateur, mais ce n’est pas le cataclysme voulu par Nagash. Les autres Clans Majeurs accusent Eshin d’avoir causé une calamité, jusqu’à ce que plusieurs Seigneurs de la Ruine connaissent une mort aussi improbable qu’humiliante.<ref name="maleruine" />
+
+=== Opportunisme mortel ===
+
+Des tempêtes émeraude balayant les [[Pics Coques de Bjarl]] provoquent un véritable tumulte chez les clans Mâchefers, qui l’interprètent comme un signe de [[Gorkamorka]]. Ils convergent dans une vallée, où les [[Arcanites]] tentent de corrompre un nexus primitif. Le Technomage Galvaniseur vagabond [[Volt-Klaw]] promet aux sorciers la puissance de feu de son [[Concile Mécanique]] en échange de cristaux de glace chargés de magie noire. Malgré leur méfiance, les Arcanites n’ont guère le choix et l’artillerie surchargée s’avère très efficace pour étriller les orruks. Une fois la victoire acquise, Volt-Klaw réclame sa récompense avant que les augures tzeentchiens ne révèlent que les phénomènes célestes ont été causés par une série de ratés en provenance de son arsenal.<ref name="maleruine" />
+
+=== Moisson avariée ===
+
+Quand les [[Ossiarque|Ossiarques]] viennent réclamer leur dîme d’os, [[Krittok Foulblade]] reste imperturbable. Avec l’aide des Clans Pestilens, le Griffarque déchaîne des nuées calculées de [[Rats des Clans]] contre les morts-vivants. Après un véritable carnage, les Ossiarques regagnent leurs nécropoles avec leur butin — à ce moment-là, les pestes infestant les hommes-rats s’éveillent, rendant les os jaunes et cassants. Malgré les efforts des [[Mortisan|Mortisans]], les nécropoles s’effondrent au moment même où les hordes de Krittok envahissent les lieux.<ref name="maleruine" />
+
+=== La ruse du Prophète ===
+
+Alors que [[Prophète Gris]] [[Thanquol]] et ses sbires des clans Moulder tentent de capturer la piétine quogmienne, une expérience avec un portail rate et mène les gargants droit à [[Sorceniche]]. Thanquol exige que le [[Maître Moulder]] [[Loathsquirm]] libère les [[Rat-Ogor|Rats-ogors]] pour attirer les titans vers une [[Cloche Maleglas]], où ils s’écharpent dans une orgie de violence. La sagacité de Thanquol lui vaut la faveur de [[Vizzik Skour|Vizzik]], de même que sa « révélation » selon laquelle l’idée de libérer les Rats-ogors infestant désormais l’antre démoniaque venait de Loathsquirm.<ref name="maleruine" />
+
+== La Grande Rogne ==
+
+Les [[Royaumes Mortels]] hurlèrent lorsque le plan des Skavens s’accomplit et que les terres furent englouties pour nourrir l’insatiable appétit de Vile-Ville. Mais les hommes-rats ne pouvaient pas se reposer sur leurs lauriers, car un nouvel émissaire de la volonté de leur dieu marchait désormais parmi eux, porteur d’une nouvelle malédiction.
+
+Un éclair verdâtre fendit les cieux d’Aqshy lorsque les vibrations de la [[:Catégorie:La Rogne|Maleruine]] — la genèse apocalyptique de la Rogne — se firent sentir. Les terres se contorsionnèrent et des rivières de malepierre fondue bouillonnèrent. Les Clans Majeurs s’affairèrent à établir des bases de pouvoir, mais aucun n’osa s’attaquer à [[Sorceniche]], cette cité de flèches ténébreuses et de cloches vrombissantes. Des maletornades balayèrent les désolations, criblant toute créature non skaven d’une corruption létale.
+
+Au mépris des lois de la physique, une partie des flèches de Vile-Ville transpercèrent plusieurs royaumes, flétrissant les plaines de Ghyran ou émergeant des mers shyishiennes coagulées. Des nuées de rongeurs infestèrent les cités pour dévorer la population. De chaque crevasse surgirent des hordes de Skavens, l’esprit brûlant de malveillance.
+
+À l’intérieur de la Rogne, chaque seigneur-rat aspirait à devenir maître. La question fut réglée lorsqu’un Verminarque accéda au trône de Sorceniche, incarnant la soif de vénération du Rat Cornu. S’autoproclamant prophète du dieu, [[Vizzik Skour]] sapa toute opposition en plongeant son auditoire dans un état de frénésie mortelle, éradiquant la santé mentale des « non-croyants » — un don qu’il entendait propager dans tout Aqshy.
+
+Des rapports évoquant des hommes-rats maculés de sang, si féroces qu’ils s’entredévoraient en marchant, commencèrent à circuler. Leurs Griffarques portaient des casques muselés pour contrôler leur faim. Seuls les Prophètes Gris, hérauts de la volonté de Vizzik, semblaient impassibles, même s’ils se crispaient au bourdonnement des cloches qui accompagnait leur progression.
+
+Consacrées par le sang infernal de Vizzik, ces [[Cloche Maleglas|Cloches Maleglas]] attisaient la [[faim noire]], n’épargnant que ses élus. L’une d’elles manqua d’être détruite par les créatures de l’orage de Sigmar sur l’île de [[Malegriffe]], mais tant que treize cloches « bénies » sonnaient leur glas malfaisant, d’autres clans succomberaient à la voracité frénétique. Il ne pouvait y avoir ni plus ni moins de ces structures — au grand agacement des Skavens qui convoitaient du pouvoir en érigeant leur propre équivalent.
+
+Menant cette Grande-grande Rognehorde, comme il surnomma son armée bénie, Vizzik purgea son domaine des étrangers et des hommes-rats réfractaires. Au milieu d’une cacophonie impie, il conspira pour frapper la [[Chaîne Adamantine]], où ses ennemis avaient établi des cordons défensifs. Si ces nuées parvenaient à envahir les montagnes, les entrailles du Vaste Aride seraient mises à nu…<ref name="granderogne">AoS v4 - Tome de bataille du Chaos - SKAVENS - LA GRANDE ROGNE</ref>
+
+<noinclude>
+== Sources ==
+<references/>
+
+[[Catégorie:Skavens]]
+</noinclude>

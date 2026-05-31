@@ -1,0 +1,22 @@
+Les [[Rat-Ogor|Rats-ogors]] comptent parmi les plus infâmes créations des [[:Catégorie:Clans Moulder|Clans Moulder]]. Troupes de choc des Skavens, on les élève pour la force et la férocité, car les tactiques traditionnelles — submerger l’ennemi sous le poids du nombre — ne fonctionnaient pas contre les adversaires plus rustes et plus baraqués.
+
+Les [[Maître Moulder|Maîtres Moulder]] virent ce problème épineux comme une opportunité d’innovation. Ils prirent des prisonniers ogors et d’autres créatures d’une taille similaire, et les fusionnèrent avec des « volontaires » skavens à l’aide de divers sérums dopant leur agressivité. L’avantage que les bêtes ainsi créées donnèrent aux Skavens était si marqué que les Rats-ogors devinrent aussitôt un pilier de chaque Clan Moulder, et un signe de prestige pour les [[Griffarque|Griffarques]] ayant les moyens d’en acquérir une meute.
+
+La meilleure arme d’un Rat-ogor est sa folie furieuse, et les Maîtres Moulder font ce qu’il faut pour que cette source de sauvagerie ne se tarisse pas. Une pratique généralement admise est d’entretenir — voire d’accroître — la capacité de la créature à ressentir la douleur tout en retirant autant d’autres vecteurs sensoriels que possible. Une autre consiste à implanter des distributeurs de sérum ou des éclats de [[Malepierre|malepierre]] dans la chair des Rats-ogors, qui provoquent des pics de puissance dévastatrice, quoiqu’imprévisible. L’exposition prolongée à la malepierre finit toujours par détruire un Rat-ogor, mais cela reste rentable, car cela garantit des achats de remplacement par les Griffarques ou les [[Technomage|Technomages]] voulant conserver désespérément leur avantage.
+
+Plusieurs Maîtres Moulder se sont spécialisés dans l’élevage des Rats-ogors, et incorporent des « pièces détachées » d’origine de plus en plus excentrique. La course à l’armement entre les Clans Moulder est constante, chacun cherchant à faire une percée, encore que voler un spécimen vivant d’une nuée rivale soit plus facile à dire qu’à faire.
+
+{{Citation AC
+|content = « Je vous avais bien dit que greffer le cœur de la chose-ver à l’accélérateur à maletension fournirait assez d’énergie pour lancer les ventricules ! Vite-vite, misérables serfs, injectez les fluides dans les muscles principaux ! Il se lève, oui-oui ! Il se lève ! »
+|sign = Glatch, Maître Moulder du Clan Ghrubbitus, quelques secondes avant que son chef-d’œuvre le mange
+}}
+
+L’esprit des Rats-ogors est pulvérisé par l’horreur de leur genèse, et ils sont mus davantage par l’instinct que par une forme quelconque de raisonnement. Ils sont donc largement incapables de manier des armes plus complexes que leurs griffes acérées ou un hachoir fiché à un moignon. Mais du fait de la nature anarchique de leur création, il y a toujours une poignée de spécimens qui possède une étincelle d’intellect. Ces Rats-ogors ont généralement des canons à maleflamme achetés aux [[:Catégorie:Clans Skryre|Clans Skryre]] et greffés à leurs bras. Ces armes sont modifiées afin qu’une légère pensée agressive, la bête lui fasse vomir des flots de feu corrosif sur les ennemis proches. On nourrit ces créatures de morceaux de viande de choix pour qu’elles restent tranquilles, et sont surveillées de très près par leurs créateurs — il ne serait pas acceptable qu’un Rat-ogor se mette à penser un peu trop par lui-même…
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - RATS-OGORS
+
+[[Catégorie:Forces des Skavens]]
+[[Catégorie:Clans Moulder]]
+</noinclude>

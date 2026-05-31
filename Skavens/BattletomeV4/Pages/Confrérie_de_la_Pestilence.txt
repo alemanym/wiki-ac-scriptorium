@@ -1,0 +1,31 @@
+La '''Confrérie de la Pestilence''' rassemble les fidèles des [[:Catégorie:Clans Pestilens|Clans Pestilens]] qui marchent au combat au nom du [[Rat Cornu|Grand Corrupteur]] : les [[Prêtre de la Peste|Prêtres de la Peste]] et leurs montures, et les hordes contaminées qui les escortent.
+
+== Prêtre de la Peste ==
+
+{{:Prêtre de la Peste}}
+
+== Creuset de la Peste ==
+
+{{:Creuset de la Peste}}
+
+== Meute de la Peste ==
+
+{{:Meute de la Peste}}
+
+== Moines de la Peste ==
+
+{{:Moines de la Peste}}
+
+{{Citation AC
+|content = « Ikmors du Clan Morbidus, fidèle serviteur de Celui Qui Flétrit, découvrit le dernier ingrédient de la Neuvième Plaie — un “cheveu du séisme”, arraché à la chose-dieu qui piétine dénommée [[Kragnos]]. Grâce à cela, il put concocter-convoquer la Grattelle Boursouflante, et de la terre se déversèrent des tiques à tête de rat dont les morsures faisaient frissonner et enfler la peau et les organes, jusqu’à ce qu’ils éclatent en gerbes de sang et de pus. Ikmors fut donc admis au sein de l’Archipustulence du Clan Morbidus. Treize fois treize choristes suppurants annoncent désormais la venue de son glorieux autel-chaudron, pour qu’il puisse contempler son ouvrage. »
+}}
+
+<hr>
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - LA CONFRÉRIE DE LA PESTILENCE
+
+[[Catégorie:Forces des Skavens]]
+[[Catégorie:Clans Pestilens]]
+</noinclude>

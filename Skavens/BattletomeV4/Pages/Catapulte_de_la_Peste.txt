@@ -1,0 +1,11 @@
+L’antique animosité avec les [[:Catégorie:Clans Skryre|Clans Skryre]] impies a conduit la plupart des [[:Catégorie:Clans Pestilens|Clans Pestilens]] à fabriquer leurs propres engins de guerre. Les '''Catapultes de la Peste''' ressemblent à des lance-rocs, mais au lieu de munitions rocheuses, elles tirent une mixture toxique brassée par les [[Prêtre de la Peste|Prêtres]]. Ces horribles bouillons contiennent des maladies à incubation rapide qui voient l’infecté tituber et se décomposer en quelques secondes — lorsqu’il ne fond pas sur place. Les artilleurs Pestilens sont volontairement imprécis, afin de mieux propager leurs agents infectieux. Et si le projectile touche des alliés, eh bien, ils devraient s’estimer bénis.
+
+La plus vile utilisation de ces Catapultes fut peut-être la Bataille de Gerbesang. La forteresse aelfique d’Ar-Imidrak était conçue pour garder les hommes-rats à distance du cœur brillant de Zaitrec. Les [[Technomage|Technomages]] devisèrent diverses armes pour le percer, mais elles étaient contrées chaque fois par les sceaux des défenseurs lumineths. Puis une procession du Clan Septik arriva. Impatient d’humilier ses rivaux, l’Oraternisseur Vomikrat chargea ses Catapultes de traces de la Plaie du Fléau Purpuracé. Les boucliers magiques furent submergés en quelques instants par cette concoction impie, tandis que la garnison aelfique s’écroulait et que des flots d’ichor — bien plus qu’un corps pouvait en contenir — jaillissaient des yeux, des nez et des gorges, ne laissant que des corps flétris. La Bataille de Gerbesang fut remportée en une journée, et il n’y a pas de meilleur sujet pour énerver un [[Conciles des Technomages#Archi-technomage|Archi-technomage]].
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - CATAPULTE DE LA PESTE
+
+[[Catégorie:Machines Skavens]]
+[[Catégorie:Clans Pestilens]]
+</noinclude>

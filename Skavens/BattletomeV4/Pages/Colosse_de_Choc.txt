@@ -1,0 +1,17 @@
+Bien qu’ils se vouent un mépris mutuel, [[Technomage|Technomages]] et [[Maître Moulder|Maîtres Moulder]] ont souvent collaboré au fil des siècles. Les [[Colosse de Choc|Colosses de Choc]] sont l’un des résultats les plus fameux de ces ententes, la tentative par les Technomages « d’améliorer » des bêtes mutantes déjà formidables.
+
+Les Colosses de Choc sont créés en conférant aux [[Rat-Ogor|Rats-ogors]] une musculature encore plus prodigieuse. Si la carrure de ces mutants les rend déjà terriblement redoutables en combat rapproché, l’objectif était de les transformer en plateformes d’arme vivantes. Les Colosses de Choc sont capables de porter divers engins mortels conçus par les Technomages, des gantelets écorcheurs aux projecteurs à maleflammes, en passant par des canons qui tirent des globes de poison ésotérique.
+
+Ces armes ne sont pas conçues pour être portées de façon conventionnelle. En plus de la difficulté qu’auraient ces créatures pour les manier, les éléments ergonomiques auraient tendance à réduire leur potentiel destructeur. À la place, les mains des Colosses de Choc sont tranchées pour que les armes soient grossièrement greffées aux moignons. Mais ce procédé brutal a pour avantage supplémentaire de faciliter l’échange de ces armes selon les caprices des Technomages, ce qui fait des Colosses de Choc des outils très polyvalents.
+
+== Skavens-Cerveaux ==
+
+Le renforcement de la masse physique des Colosses de Choc se fait au détriment de l’intelligence : les sérums qui leur sont injectés les empêchent d’agir sinon en obéissant à leurs instincts primaires. Les Skavens contournent ce problème à l’aide de créatures appelées « '''Skavens-cerveaux''' », dont la silhouette ratatinée est dotée d’un énorme cortex. Greffés au dos des Colosses de Choc par des tuyaux d’échange de fluides, ils sont mentalement liés aux brutes et leur offrent la capacité cognitive d’agir. De plus, l’aspect horrible des Skavens-cerveaux peut choquer l’ennemi pendant la seconde nécessaire au Colosse de Choc pour le pulvériser ou le tabasser.
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - COLOSSES DE CHOC
+
+[[Catégorie:Forces des Skavens]]
+[[Catégorie:Clans Moulder]]
+</noinclude>

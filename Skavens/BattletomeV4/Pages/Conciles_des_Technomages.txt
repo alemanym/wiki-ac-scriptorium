@@ -1,0 +1,30 @@
+Les [[Conciles des Technomages|Technomages]] sont des savants mécaniques qui se chargent de mettre au point des armes impossiblement dangereuses. Il existe d’innombrables conciles mineurs de Technomages, des Brisegriffes aux Malonautes, qui lancent des expéditions peu judicieuses dans le domaine du [[Rat Cornu]]. Mais certaines sont très prolifiques.
+
+== Archi-technomage ==
+
+Tous les [[:Catégorie:Clans Skryre|Clans Skryre]] sont dirigés par un '''Archi-technomage'''. Experts dans de nombreux domaines de malescience démente, ils ont tous créé des machines à la puissance dévastatrice. Ils se rendent au combat dans des armures mécanisées de leur création, maniant des gantelets cracheurs de feu et des vouges électrifiés. Leur maîtrise technologique leur confère une alternative à la sorcellerie en accumulant de la puissance magique dans des batteries d’éther avant de la déchaîner.
+
+== Ingénieur ==
+
+La plupart des Technomages sont des '''Ingénieurs''', qui fabriquent les nombreuses armes à feu des Skavens. Passés maîtres dans la manipulation de la [[Malepierre|malepierre]], ils ont conçu des manières de maximiser le potentiel destructeur de cette substance. Ils innovent sans cesse pour rendre leurs créations plus mortelles, au mépris de concepts comme la sécurité, la durabilité ou la cohérence de fabrication.
+
+{{Citation AC
+|content = « Pour treize équipes de [[Jezzail|Jezzail]] et sept [[Canon à Malefoudre|Canons à Malefoudre]], le Clan Tratch assigne cinquante de ses Meutegriffes à la nuée de l’Archi-technomage Grakhspar et des aides pour s’assurer que le Clan Virrik reçoive de nouveaux chefs plus réceptifs au génie du Grand Machinateur… »
+|sign = Un « généreux » pactegriffe Skryre typique
+}}
+
+== Galvaniseur ==
+
+Les '''Technomages Galvaniseurs''' sont fascinés par la malefoudre, l’énergie qui court dans les veines artificielles du [[Rat Cornu|Sombre Innovateur]] et qui crépite de son esprit-machine pour susciter l’inspiration divine. Leur exposition à cette force contre-nature marque les Galvaniseurs et les rend plus nerveux que les autres Skavens tandis qu’ils bidouillent leurs armes et machines explosives. Les Galvaniseurs sont passés maîtres dans l’art d’extraire le maximum de puissance des batteries de machines-tueuses électriques ou de leurs propres annihilateurs à maletension. Quiconque tente de les approcher doit traverser des murs de redoutables déflagrations difficilement supportables même pour les Éternels de Sigmar.
+
+== Saboteur ==
+
+Les '''Saboteurs Technomages''' sont des artilleurs experts qui se délectent des dégâts collatéraux. Bien que versés dans des aspects plus techniques de la guerre, comme la mise en place d’arcs de tirs et le mélange de poudre explosive alchimique, leur obsession pour les carnages balistiques ne peut être satisfaite que par les déchaînements les plus directs et les moins subtils. Les créations les plus connues des Saboteurs sont les fusées funestes, des projectiles portables dont la charge est assez puissante pour ouvrir le crâne d’un Magmadroth ou abattre le mur d’une forteresse. Enveloppés de fumée tourbillonnante, les Saboteurs chargent joyeusement ces missiles de malepierre liquide pour augmenter leur puissance — à condition qu’ils ne ratent pas leur tir de façon catastrophique dans un pilier de lumière verte qui les vaporise.
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - CONCILES DES TECHNOMAGES
+
+[[Catégorie:Forces des Skavens]]
+[[Catégorie:Clans Skryre]]
+</noinclude>

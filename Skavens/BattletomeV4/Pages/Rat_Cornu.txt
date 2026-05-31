@@ -1,0 +1,37 @@
+[[Image:RatCornu.jpg|right|500px|thumb|Le Grand Rat Cornu]]
+Les [[Skaven|Skavens]] sont les bêtes de la famine et les rongeurs de mondes, pareils à la nature haineuse de leur dieu, le '''Grand Rat Cornu'''. Depuis son repaire, la divinité des hommes-rats sape la création, l’esprit enflammé par des complots maléfiques qu’elle transmet à ses disciples rongeurs.
+
+Le Grand Rat Cornu est l’incarnation du désastre et de l’effondrement. Son objectif est un cosmos renversé où les rongeurs règnent sur des ruines, sans se préoccuper des conséquences de cette spoliation. Il est aussi un dieu du [[Chaos]] né des émotions des mortels — spécifiquement du désespoir, comme il sied à cette vile divinité.
+
+Le Rat Cornu tire sa force du paysan qui dévore sa famille pour ne pas mourir de faim, du prêcheur devenu seigneur en prophétisant un désastre imminent, de l’enfant qui casse les jouets de ses frères et sœurs pour attirer l’attention. Il est ce que les mortels deviennent dans leurs moments les plus ignobles : une vermine égoïste. On comprend donc pourquoi il dépend tant des fortunes de ses Skavens, qui prospèrent dans la perfidie.
+
+La '''faim noire''' dont souffrent tous les Skavens est un écho de l’appétit du Rat Cornu. Combinée à la fécondité explosive des hommes-rats, elle produit un environnement de pénurie constante dans leurs [[Catégorie:Lieux Skavens|cités-terriers]]. Les Skavens doivent se battre pour des miettes de prestige. Seuls les plus puissants occupent une position assez sûre pour songer à la maladie de leur société — mais eux aussi sont affectés, leur maître leur murmurant sans cesse des idées de gloire et de menace.
+
+Le Rat Cornu brûlait d’avoir le statut de [[Dieux du Chaos|Dieu du Chaos]]. Les Skavens sont très variés, mais leur âme est faible, et à cause de leurs guerres civiles, l’influence de leur maître fluctuait. Mais plus maintenant, car l’[[Heure du Déclin]] est une époque de panique et de calamité — les conditions parfaites de l’ascension du Rat Cornu.
+
+La folie se déploie désormais dans chaque bastion de civilisation. Les prophètes des rues clament le retour d’un âge chaotique tandis que la vermine jaillit de tumeurs sur leur peau. Chaque jour, des liens cosmiques sont rongés et fracturés alors que le bon sens est gauchi. Les mauvais signes abondent, répétant souvent le nombre treize, car le treize est sacré pour le Dieu des Rats et est devenu saint pour ses enfants.
+
+Le [[Royaume du Chaos]] lui-même n’a pas été épargné. Le domaine du Dieu des Rats — fait de rêves ternis et de carcasses à moitié dévorées, et désigné par des écrits raturés sous le nom de [[Rongefosse]], Royaume de Ruine, ou Basses Désolations — pollue les territoires infernaux des autres Dieux Sombres. Ce n’est pas une invasion traditionnelle, mais une inondation de corruption et de vermine spectrale. Les Frères des Ténèbres sont choqués, et momentanément distraits des affaires de la réalité.
+
+Alors que les dieux tentent de contenir cette menace, leur orgueil leur dicte de l’utiliser à leur avantage. Baignant dans cette atmosphère de trahison, le Grand Rat Cornu prospère, encourageant mille marchés de dupes et minant peu à peu le panthéon — car même les dieux peuvent connaître la perdition.
+
+{{Citation AC
+|content = « Chacun des Grands Clans vénère le Rat Cornu de façon idiosyncrasique, en le réinterprétant pour diviniser leurs propres obsessions. Les modeleurs de chair le vénèrent en tant que Géniteur Couinant, tandis que les assassins lui rendent hommage en tant qu’Ombre du Meurtre. D’autres adorent un conquérant ou un automate ténébreux. Je me demande si toutes ces vues très divergentes ont engendré des manifestations indépendantes, dans les profondeurs de l’éther. Peut-être sont-elles devenues des aspects fragmentés, qui cherchent tous à présider dans l’esprit du dieu, tout comme les Skavens se battent entre eux. »<br /><br />« Alors que l’apocalypse vient nous dévorer, certains hommes ne résistent pas. Poussés à bout par leurs peurs égoïstes, ils s’inclinent devant les ténèbres en quête de secours. Au pied d’autels couverts de cloches ou d’idoles en osier pourri, ces apostats revêtent des capes de peau de vermine, et offrent un tribut de récoltes brûlées et de carcasses rancies à celui qu’ils appellent le « Bon Roi Rogne » — un seigneur bienveillant assis à un banquet éternel. Leur destin est de finir en repas pour les Skavens. Mais par leur avilissement, ils renforcent le Grand Rat Cornu, lui permettant de s’insinuer dans leurs rêves et dans leur chair, et de les tordre selon ses goûts pernicieux… »
+}}
+
+<noinclude>
+== Interwiki ==
+----
+{{ Interwiki
+| name = Le Rat Cornu
+| BI   = Rat_Cornu
+| position = center
+}}
+
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - LES ENFANTS DU DIEU RAT
+
+[[Catégorie:Chaos]]
+[[Catégorie:Divinités]]
+[[Catégorie:Skavens]]
+</noinclude>

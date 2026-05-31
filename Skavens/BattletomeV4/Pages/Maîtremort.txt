@@ -1,0 +1,19 @@
+Les '''Maîtremorts''' des [[:Catégorie:Clans Eshin|Clans Eshin]] sont peut-être les tueurs les plus redoutés de toute la société skaven. Aucun endroit n’est sûr pour leurs cibles ; ces assassins sont des hérauts silencieux de la mort, qui se matérialisent depuis les ténèbres dans un flou de fumée et de lames.
+
+Des légendes de terreur entourent les Maîtremorts. Leurs aptitudes sont tristement célèbres : on raconte qu’ils peuvent escalader les parois à pic, se glisser dans les moindres fissures, ou même ne faire qu’un avec la pénombre d’[[Ulgu]]. Hélas, ces affirmations, qui semblent pourtant délirantes, sont vraies — les meilleurs Maîtremorts sont des dévots de l’[[Rat Cornu|Ombre du Meurtre]], des incarnations de l’assassinat inévitable.
+
+Souvent entraînés personnellement par le [[Seigneur Nocturne]] de leur clan, les Maîtremorts fondent leur réputation sur leur capacité à éliminer n’importe quelle cible, aussi bien gardée qu’elle soit. Ils se déplacent avec une furtivité et une dextérité étonnantes, franchissant les concentrations d’ennemis sans être remarqués et déterminant les angles d’attaque les plus improbables. Leurs lames suintantes et leurs shurikens à trois pointes sont couverts de toxines de [[Malepierre|malepierre]] soigneusement concoctées pour être le fléau de leur victime désignée. Mais pour les Skavens, le trait le plus perturbant d’un Maîtremort est sa concentration inébranlable ; elle leur est inculquée par le régime d’entraînement implacable des Clans Eshin, et leur permet de braver des dangers auxquels peu de Skavens oseraient se frotter.
+
+Un Maîtremort, avec ses acolytes Eshin qui peuvent suivre sa cadence, avance dans l’ombre de la nuée. La mort des autres Skavens lui sert d’écran de fumée tandis qu’il poursuit son objectif meurtrier ; à chaque meutegriffe qui est taillée en pièces ou pulvérisée, le Maîtremort se rapproche discrètement de sa cible. Il presse le pas pour dépasser les gardes du corps stupéfaits, sa forme mince s’enroulant autour de leurs coups désespérés, puis commet son assassinat en quelques secondes frénétiques, et se délecte de la terreur que l’exécution surprise répand dans les rangs ennemis.
+
+{{Citation AC
+|content = « Peu de noms de Maîtremorts sont connus en dehors de leurs clans. Craignez-redoutez donc Crixxit, car il veut que vous sachiez que n’importe quelle ombre peut cacher ses couteaux. Beaucoup ont tué des choses-hommes, mais il a tué plus grand : une Tour d’Argent, un nid de démons du Changeur, soufflé de l’intérieur par des bombes à malepierre. Il le fit au nom du Maître des Ténèbres, et il se dit que depuis, l’ombre suit toujours Crixxit… »
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - MAÎTREMORT
+
+[[Catégorie:Forces des Skavens]]
+[[Catégorie:Clans Eshin]]
+</noinclude>

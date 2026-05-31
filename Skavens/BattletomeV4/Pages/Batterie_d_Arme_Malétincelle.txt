@@ -1,0 +1,21 @@
+Conçues pour être actionnées par seulement deux artilleurs Skavens, parfois avec l’aide de bêtes des [[:Catégorie:Clans Moulder|Clans Moulder]], les '''Batteries d’Armes Malétincelles''' sont la clé de voûte de beaucoup de [[:Catégorie:Clans Skryre|Clans Skryre]]. Elles sont déployées en tant qu’équipes d’artilleurs ou en soutien de nuée d’infanterie, utilisant cette dernière pour absorber les tirs ennemis. Les techno-adeptes ont ainsi toute latitude pour amener leur arme à portée de tir avant d’ouvrir le feu en ricanant cruellement. Cependant, leur joie est souvent de courte durée étant donné la propension de l’arme à connaître des incidents lors de la mise à feu, même si la plupart du temps, le gain de son utilisation compense largement ses défauts.
+
+== Canon Ratling ==
+
+Cette machine de guerre aux fûts multiples troque la précision contre la cadence de tir. Elle est actionnée par une manivelle à vapeur tournée par un des artilleurs, et peut décimer des régiments entiers en un instant, ainsi que les hordes de Skavens à proximité, car le recul colossal de l’arme empêche de viser correctement. Toutefois, ces dommages collatéraux ne gênent pas les hommes-rats qui utilisent l’arme, et qui deviennent vite accros aux dégâts colossaux qu’ils peuvent provoquer. Heureusement, l’espérance de vie des artilleurs d’un Canon Ratling est courte, car ils ne manquent pas de se faire des ennemis au sein de leurs propres congénères à cause de leurs tueries aveugles.
+
+== Lance-feu ==
+
+Le Lance-feu est destiné à infliger un maximum de dégâts à courte portée, ou dans un environnement confiné. Un carburant volatil est stocké dans des cuves portées par les servants de l’arme. Quand on presse la détente du Lance-feu, une gerbe de flammes vertes jaillit du canon, si brûlante qu’elle peut faire fondre le métal. Même les armures en gromril gravées de runes des gardiens des tunnels duardins contre lesquelles les Skavens se battent régulièrement ne peuvent résister à une telle chaleur. On dit qu’une terre calcinée par un lance-feu restera souillée et stérile pendant de nombreuses années, et que des conclaves entiers de [[Technomage|Technomages]] œuvrent sans cesse pour rendre le liquide incendiaire de cette arme toujours plus mortel.
+
+== Cingleur à Maletension ==
+
+Cette innovation a rapidement gagné la faveur des techno-adeptes. Elle a pour ancêtres les [[Conciles des Technomages#Galvaniseur|Galvaniseurs]] du [[Clan Lektrik]], qui détruisirent jadis leurs terriers de [[Vile-Ville]] en tentant de fabriquer des [[Canon à Malefoudre|Canons à Malefoudre]] miniatures. Les Technomages qui leur succédèrent furent forcés de réduire la létalité de ces armes pour les rendre moins instables, et réussirent à créer une arme capable de tirer des arcs électriques qui semblent doués de leur propre conscience. Ils sont particulièrement efficaces contre les ennemis en rangs serrés, car les corps carbonisés conduisent cette énergie maléfique, qui peut ainsi littéralement bondir d’une victime à l’autre.
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - BATTERIE D’ARME MALÉTINCELLE
+
+[[Catégorie:Machines Skavens]]
+[[Catégorie:Clans Skryre]]
+</noinclude>

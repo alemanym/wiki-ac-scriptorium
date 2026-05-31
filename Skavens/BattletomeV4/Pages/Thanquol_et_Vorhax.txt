@@ -1,0 +1,17 @@
+Si l’on en croit toutes les rumeurs couinées par les masses vermineuses, '''Thanquol''' est originaire du mythique [[Monde-qui-fut]]. Emprisonné par le [[Rat Cornu]] pour l’échec dont il est accusé, le [[Prophète Gris]] parvint à se libérer, déterminé à prendre sa place prétendument prédestinée au [[Conseil des Treize]]. L’histoire de Thanquol est plus que discutable. Il a comploté aux côtés d’individus aussi sinistrement célèbres que [[Skreech]] le Seigneur Verminarque, et [[Archaon]] l’Élu Éternel. Et s’il est considéré comme un renégat par son dieu, il agit avec la majesté à laquelle il aspire. Du moins quand il ne fuit pas les répercussions de l’un de ses très, très nombreux plans qui se déroulent mal.
+
+La capacité de Thanquol à mettre au point des complots ingénieux n’est égalée que par sa propension à tourner les conséquences de leurs dérapages à son avantage. Béni (peut-être littéralement) d’une chance obscène, il a tendance à sortir vivant des calamités les plus improbables, en partie grâce à ses sorts notoirement dévastateurs. Complètement dépendant à la [[Malepierre|malepierre]], il peut en ingérer des quantités qui tueraient n’importe quel Prophète Gris, tout en profitant de cette puissance. D’un sifflement, Thanquol déchaîne des tempêtes émeraude rageuses ou torture les esprits de ses ennemis. Et si ses sbires sont pris dans ces déferlements magiques… Ma foi, c’étaient certainement des traîtres.
+
+Où qu’aille Thanquol, il est accompagné d’un [[Rat-Ogor|Rat-ogor]] gigantesque. En défendant son maître, cette créature a été réduite en morceaux, pulvérisée, calcinée et soumise à des centaines d’autres destins. Mais Thanquol a toujours récupéré assez de morceaux de chair de ce monstre pour que ses sous-fifres le rapiècent, le rendant plus gros et plus dangereux à chaque itération. Au combat, le poids et la férocité de la bête, combinés à des armes comme des braseros fumants et des projecteurs à maleflammes, en font un adversaire mortel, tandis que Thanquol se tient sur ses épaules pour lancer sorts et railleries. Il est difficile de dire quelle proportion de la création originale persiste, mais Thanquol l’appelle « '''Vorhax''' » avec une tendresse insolite pour un Skaven.
+
+{{Citation AC
+|title = La Ménagerie mutante de Thanquol
+|content = Au fil des ans, Thanquol s’est fait de nombreux alliés dans les [[:Catégorie:Clans Moulder|Clans Moulder]]. Une précaution nécessaire pour toujours avoir quelqu’un pour réparer Vorhax. En raison de son statut de renégat, ce sont souvent des [[Maître Moulder|Maîtres Moulder]] qui, après des démêlés avec leurs clans, sont contraints de s’allier à ce Prophète Gris erratique. Thanquol renforce leur loyauté en leur proposant des notions de crypto-sorcellerie et des spécimens intrigants récupérés lors de ses mésaventures. Suite à l’[[Ère de la Bête]], Thanquol a chargé ses sbires de créer une ménagerie d’horreurs qui n’obéissent qu’à lui. Il a l’intention de mettre à l’épreuve sa horde suturée dans les carnages spasmodiques de l’[[Heure du Déclin]] avant de la lancer contre le [[Maître-terrier]] lui-même, et de profiter de cette violence pour s’emparer de la place qui lui revient dans le Conseil.
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - THANQUOL ET VORHAX
+
+[[Catégorie:Personnages Skavens]]
+</noinclude>

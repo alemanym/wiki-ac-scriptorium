@@ -1,0 +1,17 @@
+Quelle autre créature pourrait observer une arme aussi peu fiable que le [[Batterie d’Arme Malétincelle#Canon Ratling|Canon Ratling]] et se demander comment le rendre encore plus mortel ? Le '''Maléclateur Ratling''' est le résultat d’un tel questionnement : une arme énorme, à plusieurs canons, prévue pour être la réponse ultime face aux régiments d’infanterie. Katchrikk du [[Clan Gaskett]] clame être le génie ayant développé cette arme, mais il n’est que le dernier d’une longue lignée de [[Technomage|Technomages]] obnubilés par l’artillerie à fûts multiples. En réalité, de nombreuses variantes du Maléclateur Ratling existaient déjà dans les arsenaux des [[:Catégorie:Clans Skryre|Clans Skryre]] de tous les [[Royaumes Mortels]], même si le besoin d’œuvrer de concert en vue de l’avènement de la [[:Catégorie:La Rogne|Maleruine]] a fini par donner l’occasion de populariser ces armes. Toutefois, aucun Skaven ne reconnaîtra jamais les bénéfices du travail en équipe, même si le résultat en vaut la chandelle.
+
+Ce fut l’invention de l’accélérateur à [[Malepierre|malepierre]] qui permit de donner vie au Maléclateur Ratling. Cette source d’énergie est plus puissante et peut fonctionner plus longtemps que les autres, mais si le Maléclateur subit un incident de tir, les conséquences sont d’autant plus catastrophiques. Les Technomages, surtout ceux qui n’opèrent pas directement un Maléclateur Ratling, estiment que le jeu en vaut la chandelle. L’énorme recul de l’arme a été résolu en la montant sur un châssis en bois bringuebalant tiré par des esclaves skavens, tandis que le tireur, juché sur un tabouret pivotant, peut ajuster la visée des canons et s’assurer qu’aucun endroit du champ de bataille n’est hors de son angle de tir.
+
+Le crépitement d’un Maléclateur Ratling qui accumule de l’énergie est comme une lame qui laboure l’esprit et qui annonce un désastre imminent. Cela se concrétise lorsque le canon tire une salve de projectiles brûlants en malepierre qui font littéralement exploser les soldats adverses dans des gerbes d’entrailles et de morceaux de corps sanguinolents. Les gargants s’effondrent avec des trous béants dans le torse, et les vaisseaux volants des duardins donnent du gîte en crachant de la fumée noire par les brèches ouvertes dans leurs flancs. Néanmoins, toute tentative du tireur de conserver une visée stable est vaine, car la fiabilité d’un Maléclateur est inversement proportionnelle à son pouvoir de destruction, ce qui explique sa popularité auprès des Skavens.
+
+{{Citation AC
+|content = « Mes dernières modifications du prototype du Maléclateur sont, en toute modestie, extraordinaires. Ce fut moi, le génial Queelum, le plus inventif et le plus méthodique des Technomages, qui ai supervisé le déploiement en vue d’un test auprès des hordes du [[Griffarque]] Naskit. L’arme a tué trois bandes de choses-vertes, plus la chose-géante qui les accompagnait, plus Naskit et ses Vermines de Fer. Un franc succès, oui-oui ! »
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - MALÉCLATEUR RATLING
+
+[[Catégorie:Machines Skavens]]
+[[Catégorie:Clans Skryre]]
+</noinclude>

@@ -1,0 +1,20 @@
+Les arsenaux des [[:Catégorie:Clans Skryre|Clans Skryre]] sont très variés, mais les [[Roue Infernale|Roues Infernales]] font partie de leurs armes les plus bizarres. Des arcs électriques dansent autour de ces engins déments alors qu’ils avancent, et rapidement, les rires moqueurs de l’ennemi se muent en cris d’horreur alors que la Roue Infernale les percute avec une violence telle que les corps démembrés volent dans tous les sens.
+
+Nul ne peut dire quel visionnaire inventa la Roue Infernale. Ils s’inspirèrent sans doute des roues de moulin utilisées dans les profondeurs de [[Vile-Ville]], et le fait qu’ils soient parvenus à transformer ces outils inoffensifs en instruments de mort en dit long sur leur machiavélisme. Résumé grossièrement, une Roue Infernale consiste en deux roues jumelées et reliées à un générateur à [[Malepierre|malepierre]]. Elle est dirigée par un [[Technomage]] portant des lunettes de pilotage, et avance grâce à la nuée de rats qui se trouvent à l’intérieur des roues, ces derniers étant motivés de temps à autre par une décharge électrique du générateur.
+
+Alors que la Roue Infernale accumule de l’énergie, celle-ci est relâchée de temps à autre sous la forme d’un éclair surnaturel. Le pilote a pour mission de canaliser cette puissance mal contrôlée le long des pointes métalliques sur les flancs du véhicule, afin qu’elle réduise en cendre ceux qui se mettent en travers du chemin de l’engin. S’il ne le faisait pas, l’énergie accumulée provoquerait une surcharge et l’explosion du générateur, c’est pourquoi il n’est guère regardant concernant les cibles qui subissent les éclairs de sa machine : seul un Skaven idiot reste à proximité d’une Roue Infernale…
+
+Bien entendu, la simple masse d’une Roue Infernale en fait déjà une arme dangereuse. Nul ne peut remettre en cause son efficacité pour percer des lignes, et les Skavens adorent voir les champions ennemis écrabouillés par ces engins. Ils apprécient moins quand ces derniers percutent malencontreusement leurs propres régiments. En effet, ces machines sont difficiles à piloter, et le fait qu’elles soient propulsées par des rats rend leurs accélérations imprévisibles. Si le technomage harcèle trop son attelage à coups d’arcs électriques, ce dernier risque de se rebeller et de le mordre, ce qui provoque inévitablement des écarts de conduite. Plus d’un [[Griffarque]] ou [[Conciles des Technomages#Archi-technomage|Archi-technomage]] doit son ascension à une Roue Infernale qui a soudainement changé de cap et qui est venue laminer toute la ligne de bataille des Skavens, y compris l’intégralité de son état-major.
+
+{{Citation AC
+|content = « Au départ, cet engin avait l’air ridicule et nous a fait rire. Il avançait cahin-caha dans la boue, et Grayle prit les paris pour savoir qui de lui ou de notre artillerie tuerait le plus d’hommes-rats.<br /><br />Puis il a accéléré, comme poussé par le souffle de Sigmar. Il a utilisé un rocher comme tremplin pour sauter par-dessus la vermine puis est retombé au sol. C’est à ce moment qu’il s’est mis à cracher des éclairs noirs. L’un d’eux a détruit une patte d’un mécafort, qui a commencé à s’écrouler. Pour l’éviter, les Fusiliers se sont précipités sur le chemin de l’engin des hommes-rats. Grol a essayé de l’arrêter, sûr de sa force d’ogor. La machine l’a tout bonnement pulvérisé.<br /><br />C’est vrai, la Grande Roue tourne. Elle tourne, et elle nous déteste. »
+|sign = Albon Smok, 15ᵉ Brigade d’Eaugrise
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - ROUE INFERNALE
+
+[[Catégorie:Machines Skavens]]
+[[Catégorie:Clans Skryre]]
+</noinclude>

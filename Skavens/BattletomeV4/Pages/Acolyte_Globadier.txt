@@ -1,0 +1,13 @@
+Hiérarchiquement, les '''Acolytes Globadiers''' sont en dessous des [[Technomage|Technomages]] des [[:Catégorie:Clans Skryre|Clans Skryre]]. Ces sbires ont pour mission d’accomplir les volontés de leurs maîtres, ou du moins de faire semblant pendant qu’ils complotent pour monter les échelons. Même si leur condition n’est pas aussi misérable que celle des [[Esclave-rat|esclaves-rats]] utilisés comme cobayes pour tester des armes, il y a peu de choses qu’un Technomage hésiterait à infliger à ses serviteurs. Ils font ainsi office de mineurs, de pourvoyeurs de munitions et à l’occasion, de cibles mouvantes lorsque leur maître est de mauvaise humeur. En temps de guerre, ils sont l’infanterie de ligne utilisée par les Clans Skryre.
+
+La plupart des Technomages font une moue de dédain lorsqu’ils contemplent les hordes dépenaillées des [[:Catégorie:Clans Verminus|Clans Verminus]] et [[:Catégorie:Clans Pestilens|Pestilens]]. Pour leur part, ils préfèrent avoir recours à des tirailleurs pour épuiser l’adversaire. Ces troupes sont équipées de toutes sortes de projectiles à courte portée et dangereux pour l’utilisateur, issus des arsenaux des terriers-fonderies. Portant un équipement de protection limité, les Acolytes Globadiers ont pour mission d’arroser l’ennemi avec des sphères de « vent empoisonné ». Il s’agit d’un gaz à base de [[Malepierre|malepierre]]. Celui qui l’inhale se dissout de l’intérieur, sa peau se décompose à vue d’œil et ses yeux se liquéfient. Lorsqu’il se répand à partir d’une sphère brisée, le vent empoisonné persiste longtemps dans l’air et peut donc tuer beaucoup d’ennemis (ou de Skavens, si une rafale de vent inattendue l’entraîne dans la mauvaise direction).
+
+Même si l’espérance de vie des Globadiers est courte, ce corps de troupes ne manque jamais de recrues. Chaque homme-rat est convaincu de son génie et personnalise son équipement, persuadé de l’améliorer et ainsi s’attirer la faveur de ses supérieurs. Malheureusement, un Globadier doit se contenter de rafistoler un équipement corrodé par le vent empoisonné, en bricolant un masque à gaz ou en modifiant le système de filtration de son paquetage dorsal. Pour dix Globadiers qui dégradent ainsi l’efficacité de leur équipement et subissent une mort atroce, un seul peut-être verra ses innovations remarquées par un Technomage, qui s’empressera de se les approprier.
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille du Chaos - SKAVENS - ACOLYTES GLOBADIERS
+
+[[Catégorie:Forces des Skavens]]
+[[Catégorie:Clans Skryre]]
+</noinclude>

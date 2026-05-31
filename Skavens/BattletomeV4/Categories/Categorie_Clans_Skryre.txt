@@ -1,0 +1,30 @@
+Un concile mécanique des [[:Catégorie:Clans Skryre|Clans Skryre]] ressemble plus à une exposition ambulante démentielle qu’à une armée conventionnelle. Les [[Technomage|Technomages]] courent en tous sens pour montrer le génie de leurs appareils meurtriers. Les cieux crépitent tandis que des moteurs et des bobines s’animent dans une pluie d’étincelles. L’air frémit dans une lamentation effrayante. Puis, en un clin d’œil, tout crache la mort — un ouragan de balles, de flammes et d’énergie surnaturelle qui annihile tout sur son chemin. Tandis que ces salves se déchaînent, les Technomages ont besoin de bricoler, exigeant que leurs servants effectuent des altérations périlleuses pour doper le potentiel destructeur de leurs armes. Les machines de guerre qui font le plus de victimes sont validées pour une production en masse. Celles qui n’obtiennent pas l’approbation de l’Archi-Technomage du clan sont sûrement déjà brisées en mille morceaux, avec leur créateur.
+
+Les Clans Skryre vénèrent le Grand Rat Cornu en tant que [[Rat Cornu|Sombre Innovateur]], un dieu-machine, de câbles et de rouages, dont l’esprit mécanisé pétille sans cesse d’inventions d’engins de mort. Canons lanceurs d’éclairs et perceuses écorcheuses de réalité, cracheurs de [[Maleflamme|maleflamme]] et canons ratling, des choses qui brûlent et explosent, mutilent et massacrent : tout cela sort des lignes de production Skryre. Ils sont ensuite vendus aux autres clans, car la puissance de l’artillerie Skryre est à la fois redoutée et convoitée partout dans le domaine des [[Skaven|hommes-rats]].
+
+Un Skaven des Clans Skryre demande toujours si quelque chose est possible plutôt que conseillé. Il peut trafiquer toutes sortes d’armes merveilleuses, mais il songe rarement aux conséquences en cas d’incident de tir — et l’élite technocratique Skryre voit les notions telle que la fiabilité comme des limitations non pertinentes. Son esprit saute fébrilement d’une combine à l’autre, et est capable de tirer sur ses alliés uniquement pour s’amuser de la puissance de ses créations. Même lorsqu’il plagie éhontément le travail de ses confrères, il ne peut s’empêcher d’ajouter des modifications sur mesure — qui seront elles-mêmes copiées et « améliorées ».
+
+Cette instabilité n’est pas surprenante, étant donné que le plus humble serf Skryre est exposé à la [[Malepierre|malepierre]] et à ses effets sur l’esprit. Les Skavens exploitent toutes les sources d’énergie, mais la plupart des machines Skryre ont un noyau de malepierre ; on dit que le cœur du Sombre Innovateur est un éclat gros comme une lune. Les haillons verts assortis à cette substance sont courants, et si les Technomages sont souvent vêtus de violet, ils se parent aussi de lunettes et de condensateurs émeraude.
+<ref name="cc">AoS v4 - Tome de bataille du Chaos - SKAVENS - CLANS ET CONSEILS - Les Clans Skryre</ref>
+
+=== Techno-Runes Skryre ===
+
+Les icônes des Clans Skryre évoquent l’éclair warp ou le jet de flammes, c’est-à-dire les projectiles mortels de la plupart de leurs machines de guerre, celles-là mêmes qui ont assis la réputation des Clans et assuré leur fortune.<ref>AoS v4 - Tome de bataille du Chaos - SKAVENS - ACOLYTES GLOBADIERS</ref>
+
+
+----
+
+
+
+{{ Citation AC
+| content = ''« Beaucoup de prisonniers des hommes-rats sont emmenés dans les terriers-usines Skryre. Je n’ose songer au sort qui les y attend. Ces ateliers d’armement rivalisent en taille avec de petites cités, crachant des fleuves de déchets toxiques et des nuages de fumée de maleflamme. Au milieu de convoyeurs grinçants et de générateurs instables, les Technomages façonnent leurs inventions meurtrières. Ils sont fiers des différentes morts que causent leurs créations. Pour eux, les balles manquent d’imagination ; le moindre éclat de plomb est donc imprégné de malepierre. Le potentiel de cette substance a été étiré presque jusqu’au point de rupture, que ce soit sous forme de liquide brûlant ou de gaz asphyxiant. Toute cette ingéniosité vouée au mal…''
+
+''Il n’existe pas de plus grande source de malepierre que Vile-Ville, où des centaines de Clans Skryre creusent imprudemment le ventre précaire de la capitale. Ils sont à l’origine des infrastructures brinquebalantes de la cité, des monorails dangereusement serrés et branlants qui relient les cités-terriers avec un bruit de ferraille, aux communicateurs longue distance qu’on nomme "couine-loin". Beaucoup de clans skavens sont attirés dans l’orbite de Vile-Ville et traitent avec les Technomages. Les Clans Skryre se sont enrichis en vendant des machines de mort insensées à des clients cherchant le moindre avantage. Toutefois, comme tous les marchands d’armes avisés, ils se réservent les plus destructrices. »'' <ref name="cc"/>
+}}
+
+<noinclude>
+== Sources ==
+<references/>
+
+[[Catégorie:Clans et Conseils Skavens]]
+</noinclude>
