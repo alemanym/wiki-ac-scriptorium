@@ -1,7 +1,7 @@
-# Pages Wiki Skavens — Archivum Céleste (AoS v4)
+# Pages Wiki Skavens — AoS v4
 
 Archive des pages wiki générées pour l'import du Battletome Skavens.
-Format : wikicode MediaWiki, fichiers `.txt`. À importer sur le wiki AC.
+Format : wikicode MediaWiki, fichiers `.txt`. À importer sur le wiki.
 
 ## Organisation
 - **Pages/** — les pages de contenu (unités, machines, personnages, lieux, histoire…).
