@@ -1,7 +1,6 @@
 # Rapport de Livraison — Seigneurs Ruinemânes
 
 > **Date** : 1er juin 2026
-> **Source** : `AOS-v4-Battletome-SeigneursRuinemanes.pdf` (66 pages, image-only)
 > **Dossier de sortie** : `mediawiki/seigneurs_ruinemanes/`
 
 ---
