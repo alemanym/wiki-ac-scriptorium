@@ -1,0 +1,15 @@
+Lorsqu'un Nécromancien de renom est détruit, ses restes constituent un réceptacle d'une puissance morbide. Ces os et ces haillons sont rassemblés par les fidèles acolytes du seigneur liche et placés avec révérence dans un cercueil orné de runes ou un reliquaire impie. Ce dernier est ensuite installé dans un engin sinistre appelé [[Machine Mortis]], afin que son influence maléfique continue de se répandre alentour.
+
+Les Machines Mortis sont des vecteurs d'énergie mortifère. Tout en sillonnant le champ de bataille sur une vague d'esprits torturés, elles rassemblent des courants de magie améthyste et les canalisent en un nuage effroyable. Les Mages de la Mort à proximité puisent dans cette source impie pour renforcer leurs propres maléfices, connaissant ne serait-ce que brièvement l'apogée de la puissance nécromantique. Si une Machine Mortis est menacée de destruction, son Maître des Cadavres, un séide du seigneur liche défunt, peut libérer toute la sorcellerie qu'elle a accumulée. Une vague d'énergie nécrotique déferle depuis l'engin, fauchant tous les vivants à proximité et réduisant leur chair et leurs os en poussière.
+
+{{Citation AC
+|content = « C'est un honneur rare que de recevoir la garde d'une Machine Mortis. Les Nécromanciens comme moi sont généralement accaparés par des préoccupations physiques : la manipulation des os et de la chair, l'esprit n'étant que le mortier qui lie ces matériaux. Les Maîtres des Cadavres communient plutôt avec les spectres, canalisant leur pouvoir en un tourbillon ectoplasmique. Tout cela est un peu trop ésotérique à mon goût, mais je n'en nierai jamais l'efficacité. »
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - FORCES DES SEIGNEURS RUINEMÂNES - Machine Mortis
+
+[[Catégorie:Forces des Seigneurs Ruinemânes]]
+[[Catégorie:Machines des Seigneurs Ruinemânes]]
+</noinclude>

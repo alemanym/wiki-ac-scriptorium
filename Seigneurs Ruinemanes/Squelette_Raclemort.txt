@@ -1,0 +1,15 @@
+Les squelettes forment la sinistre population des royaumes des Raclemorts. À bien des égards, ils incarnent la Nécrotopie de [[Nagash, Seigneur Suprême des Morts-vivants|Nagash]] : stériles et immuables, ils sont l'expression la plus pure du sort qui attend toute vie. On trouve des fiefs raclemorts dans tous les royaumes, depuis la terre ghyranite de la Décrépitie, où des squelettes drapés de végétation putride construisent des bastions en bois mort, jusqu'aux manoirs décrépis d'Ulguan, dont les garnisons cachent leur nature morbide derrière des masques et des voiles ouvragés.
+
+Les [[Squelette Raclemort|squelettes]] ne sont pas les seuls serviteurs des [[Roi Revenant|Rois Revenants]]. Tout [[Nécromancien]] assez doué peut faire surgir ces morts-vivants d'anciens champs de bataille et mausolées, et les mobiliser sous les bannières défraîchies portant l'héraldique de leurs anciennes nations. Dans le fracas des armures rouillées, les squelettes marchent avec une cadence sinistre, sans douleur ni doute. Alors, l'ennemi doit fixer leurs visages grimaçants, un spectacle qui sape le courage de tous, hormis les plus valeureux.
+
+{{Citation AC
+|content = « Comme les mortels reculent devant leurs propres morts utilisés contre eux ! Comme ils tremblent lorsque les tombes de leurs ancêtres vomissent les restes de parents disparus. Cela ajoute une délicieuse touche d'horreur à la douleur de leurs derniers instants. »
+|sign = Catriolla ven Vrask, Seigneur Vampire
+}}
+
+<noinclude>
+== Sources ==
+* AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - FORCES DES SEIGNEURS RUINEMÂNES - Squelette Raclemort
+
+[[Catégorie:Forces des Seigneurs Ruinemânes]]
+</noinclude>

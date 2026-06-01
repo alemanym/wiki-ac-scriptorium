@@ -1,0 +1,29 @@
+[[Neferata]] est la première vampire et la génitrice de la Malédiction Ruinemâne. Elle déroba les Neuf Livres de [[Nagash, Seigneur Suprême des Morts-vivants|Nagash]] pour percer le secret de l'immortalité, et élabora la potion impie qui donna naissance à la sanguinaire aristocratie de la nuit. Si Neferata a l'apparence d'une jeune reine, son regard trahit une ruse et une sagesse plusieurs fois millénaires, et le spectacle de sa sombre majesté suffit pour que les seigneurs de guerre et les empereurs tombent à genoux devant elle.
+
+Si elle est dans son élément dans les palais opulents, au cœur des intrigues sanglantes de la cour, la Reine Neferata n'en foule pas moins fréquemment le champ de bataille pour s'assurer personnellement que ses plans aboutissent. Dédaignant volontiers les armées de cadavres dépouillés des autres vampires, elle préfère que ses troupes combattent parées d'atours dignes de son rang. La richesse de [[Nulahmia]] est sans limites, et même ses plus humbles squelettes sont équipés de boucliers et de lances resplendissants. Des ordres de [[Chevalier de Sang|Chevaliers de Sang]] voués à la Mère des Vampires chevauchent aux côtés de la féroce monture de Neferata, le destrier des abysses Nagadron, pour faire couler le sang à profusion en son nom.
+
+Tout en levant une main délicatement manucurée pour lancer la charge, Neferata prépare des sorts pour assister ses guerriers. Recouvrant le champ de bataille d'un manteau de ténèbres que seuls les yeux de ses troupes peuvent percer, Neferata fait montre d'une stratégie digne des plus illustres généraux des royaumes. Elle cible les plus redoutables seigneurs de guerre ennemis, afin de semer la confusion. Rares sont les armures, naturelles ou non, résistant aux griffes de Nagadron, mais ce sont les propres armes de la reine qui assènent souvent le coup de grâce. La dague Akmet-mar et le sceptre Aken-seth sont en effet des reliques mortelles. La moindre blessure infligée par ces armes provoque une douleur intolérable, tandis que la victime est détruite corps et âme par leurs puissants enchantements.<ref name="charte">AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - FORCES DES SEIGNEURS RUINEMÂNES - Neferata, Mortarque de Sang</ref>
+
+{{Citation AC
+|content = « La guerre est un moyen peu élégant d'obtenir ce que l'on veut, mais il n'est pas dénué d'attrait. Je ne peux nier que je savoure l'effondrement d'une armée adverse autant que l'anéantissement politique d'un rival. »
+|sign = Neferata, Mortarque de Sang
+}}
+
+== La Reine Éternelle ==
+
+{{Citation AC
+|content = « Je ne sers personne. Je suis Neferata, la mère des vampires, la Mortarque du Sang. Mes congénères inférieurs pensent être mes rivaux dans quelque sorte de jeu politique fluctuant, mais ils ne sont en aucun cas mes égaux. Ce ne sont que des échos que ma gloire éternelle, et leurs machinations sont aussi pathétiques que grossières. Comment pourrait-on comparer un métal terni à de l'or pur ? Ces imbéciles doivent tout à mon ambition et à ma découverte de ce que tous les mortels convoitent : l'immortalité.<br /><br />J'existe depuis que les premiers empires se sont élevés sur le sable du désert brûlé par le soleil. J'ai vu des civilisations millénaires tomber en poussière et j'ai vaincu tant d'ennemis que je n'ai pas besoin de tous me les remémorer. J'ai vu la fin d'une réalité, et la naissance d'une autre. Je trouve donc amusant de penser que certains en dehors de Nagash se croient mes égaux. Ne voient-ils pas la gloire de la [[Neferatie]] pour comprendre leur égarement ? Ce parvenu de [[Mannfred von Carstein|von Carstein]] ne voit-il pas que ses misérables accomplissements pâlissent en comparaison des pyramides et des arches scintillantes de Nulahmia ?<br /><br />Lorsque l'heure viendra, les royaumes seront remodelés à mon image. Je dispose de dix mille espions et courtisanes. Dans les Huit Royaumes, ils tissent la trame de mes intrigues pour accomplir mon chef-d'œuvre de sabotage. Un jour, tous s'agenouilleront devant moi, et ceux qui refuseront paieront le prix de leur insolence. Ils périront, étouffés par mon génie insurpassable, mais si je suis d'humeur miséricordieuse, je leur accorderai une mort rapide, bien que cela reste peu probable. »
+}}
+
+{{Citation AC
+|content = « Je n'ai jamais connu d'esprit aussi affûté que celui de sa Gracieuse Majesté. Cependant, je crois que parfois, elle est tout autant poussée par l'ennui que par l'ambition. Il lui arrive de précipiter la fin d'un empire simplement pour voir ce qui en rejaillira. Après des millénaires de gloire incontestée, qu'est-ce qui pourrait bien susciter l'enthousiasme de la Reine des Reines ? »
+|sign = [[Sekhar]], Croc de Nulahmia
+}}<ref name="lore">AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - SEIGNEURS DES TÉNÈBRES - La Puissance des Mortarques - Neferata</ref>
+
+<noinclude>
+== Sources ==
+<references/>
+
+[[Catégorie:Personnages Seigneurs Ruinemânes]]
+[[Catégorie:Nulahmiens]]
+</noinclude>
