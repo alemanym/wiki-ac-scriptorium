@@ -1,6 +1,6 @@
 == Sous-Mondes en Guerre ==
 
-Les Dieux Sombres se sont unis en vue d'un nouvel assaut contre les vivants et les morts, déterminés à reconquérir les sous-mondes qu'ils gouvernaient jadis. Confrontée à une ruine imminente, l'Aristocratie de la Nuit déchaîne la pleine puissance de ses osts, invoquant des pactes antiques pour tirer les Rois Revenants de leur sommeil troublé. Ils libèrent des hordes squelettiques, conscients de la menace : les Rois Revenants ne sont pas dociles, et la promesse de conquête peut s'avérer assez tentante pour pousser ces tyrans à renier leurs serments.<ref name="smg">AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - SEIGNEURS DES TÉNÈBRES - Sous-Mondes en Guerre</ref>
+Les Dieux Sombres se sont unis en vue d'un nouvel assaut contre les vivants et les morts, déterminés à reconquérir les sous-mondes qu'ils gouvernaient jadis. Confrontée à une ruine imminente, l'Aristocratie de la Nuit déchaîne la pleine puissance de ses osts, invoquant des pactes antiques pour tirer les Rois Revenants de leur sommeil troublé. Ils libèrent des hordes squelettiques, conscients de la menace : les Rois Revenants ne sont pas dociles, et la promesse de conquête peut s'avérer assez tentante pour pousser ces tyrans à renier leurs serments.<ref name="smg">Tome de Bataille de la Mort : Seigneurs Ruinemânes (4e édition) - SEIGNEURS DES TÉNÈBRES - Sous-Mondes en Guerre</ref>
 
 Ravagées par les brasiers de malepierre, les contrées sauvages des clans [[Vyrkos]] s'embrasent de vert émeraude. Les champions [[Kastelaï]] s'aperçoivent que leurs prouesses martiales pèsent peu face aux innombrables hordes ennemies. Même les deux sous-mondes les plus puissants, la Neferatie et la Carstinie, sont sur le point d'être envahis. Le Mortarque [[Mannfred von Carstein]] et [[Neferata]] sont forcés d'envisager l'impensable : une véritable alliance, basée sur le péril commun. Reste à voir si la société indisciplinée des Ruinemânes, avec toutes ses rancunes dynastiques, pourra s'unir et repousser cette menace.<ref name="smg" />
 
@@ -10,7 +10,7 @@ Ravagées par les brasiers de malepierre, les contrées sauvages des clans [[Vyr
 
 == L'Héritage des Ténèbres ==
 
-''Depuis l'aube des royaumes, les vampires règnent sur la nuit, pillant les terres des vivants et se gorgeant du sang chaud de leurs victimes. À mesure que le pouvoir de [[Nagash, Seigneur Suprême des Morts-vivants|Nagash]] grandit, le leur aussi, et la Malédiction Ruinemâne commença à s'insinuer toujours plus loin dans la société mortelle.''<ref name="hdt">AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - SEIGNEURS DES TÉNÈBRES - L'Héritage des Ténèbres</ref>
+''Depuis l'aube des royaumes, les vampires règnent sur la nuit, pillant les terres des vivants et se gorgeant du sang chaud de leurs victimes. À mesure que le pouvoir de [[Nagash, Seigneur Suprême des Morts-vivants|Nagash]] grandit, le leur aussi, et la Malédiction Ruinemâne commença à s'insinuer toujours plus loin dans la société mortelle.''<ref name="hdt">Tome de Bataille de la Mort : Seigneurs Ruinemânes (4e édition) - SEIGNEURS DES TÉNÈBRES - L'Héritage des Ténèbres</ref>
 
 === L'Âge des Mythes ===
 
@@ -50,7 +50,7 @@ Après la trahison du [[Prince Vhordraï|prince Vhordraï]], les loyalistes de N
 
 == La Rançon de la Ruine ==
 
-''Bien que les grandes baronnies et principautés des Seigneurs Ruinemânes aient étendu leur domaine et leur influence au cours de la Guerre des Âmes, elles allaient bientôt affronter des menaces effroyables. La sauvagerie des orroks menaçait de réduire en poussière leur sombre splendeur, tandis que des yeux malveillants brillaient dans l'ombre, attendant le moment de frapper.''<ref name="rdr">AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - SEIGNEURS DES TÉNÈBRES - La Rançon de la Ruine</ref>
+''Bien que les grandes baronnies et principautés des Seigneurs Ruinemânes aient étendu leur domaine et leur influence au cours de la Guerre des Âmes, elles allaient bientôt affronter des menaces effroyables. La sauvagerie des orroks menaçait de réduire en poussière leur sombre splendeur, tandis que des yeux malveillants brillaient dans l'ombre, attendant le moment de frapper.''<ref name="rdr">Tome de Bataille de la Mort : Seigneurs Ruinemânes (4e édition) - SEIGNEURS DES TÉNÈBRES - La Rançon de la Ruine</ref>
 
 Le retour de [[Kragnos]], le Dieu des Séismes, marqua la fin de la domination séculaire de Nagash et le début d'une époque encore plus trouble : l'Ère de la Bête. Les royaumes ne subissaient plus les effets écrasants du Nécro-séisme de Shyish, car le grand rituel de Nagash avait été contré par la magie d'Alarielle et des autres dieux de l'Ordre. Cependant, en tentant de rétablir l'équilibre de la vie dans le cosmos, la Reine Éternelle avait involontairement galvanisé Kragnos lui-même, lui donnant la force de se libérer de la prison temporelle qui l'avait retenu pendant des siècles.<ref name="rdr" />
 

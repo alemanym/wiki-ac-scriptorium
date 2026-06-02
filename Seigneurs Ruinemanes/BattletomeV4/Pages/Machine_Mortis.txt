@@ -8,7 +8,7 @@ Les Machines Mortis sont des vecteurs d'énergie mortifère. Tout en sillonnant 
 
 <noinclude>
 == Sources ==
-* AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - FORCES DES SEIGNEURS RUINEMÂNES - Machine Mortis
+* Tome de Bataille de la Mort : Seigneurs Ruinemânes (4e édition) - FORCES DES SEIGNEURS RUINEMÂNES - Machine Mortis
 
 [[Catégorie:Forces des Seigneurs Ruinemânes]]
 [[Catégorie:Machines des Seigneurs Ruinemânes]]

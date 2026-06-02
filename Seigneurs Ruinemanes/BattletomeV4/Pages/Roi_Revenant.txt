@@ -10,7 +10,7 @@ Les armes de ces Revenants antiques sont les plus mortelles de leur type. Elles 
 
 <noinclude>
 == Sources ==
-* AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - FORCES DES SEIGNEURS RUINEMÂNES - Roi Revenant
+* Tome de Bataille de la Mort : Seigneurs Ruinemânes (4e édition) - FORCES DES SEIGNEURS RUINEMÂNES - Roi Revenant
 
 [[Catégorie:Forces des Seigneurs Ruinemânes]]
 </noinclude>

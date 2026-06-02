@@ -4,7 +4,7 @@ Ces créatures n'ont rien de la grâce prédatrice d'un vampire. Les Vargheists 
 
 <noinclude>
 == Sources ==
-* AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - FORCES DES SEIGNEURS RUINEMÂNES - Vargheist
+* Tome de Bataille de la Mort : Seigneurs Ruinemânes (4e édition) - FORCES DES SEIGNEURS RUINEMÂNES - Vargheist
 
 [[Catégorie:Forces des Seigneurs Ruinemânes]]
 </noinclude>

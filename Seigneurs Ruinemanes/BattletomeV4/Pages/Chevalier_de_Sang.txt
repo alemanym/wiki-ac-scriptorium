@@ -11,7 +11,7 @@ En dehors du champ de bataille, les Chevaliers de Sang obéissent à un code de 
 
 <noinclude>
 == Sources ==
-* AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - FORCES DES SEIGNEURS RUINEMÂNES - Chevalier de Sang
+* Tome de Bataille de la Mort : Seigneurs Ruinemânes (4e édition) - FORCES DES SEIGNEURS RUINEMÂNES - Chevalier de Sang
 
 [[Catégorie:Forces des Seigneurs Ruinemânes]]
 </noinclude>

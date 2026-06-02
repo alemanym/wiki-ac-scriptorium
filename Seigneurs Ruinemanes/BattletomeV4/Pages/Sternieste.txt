@@ -2,7 +2,7 @@
 
 <noinclude>
 == Sources ==
-* AoS v4 - Tome de bataille de la Mort - SEIGNEURS RUINEMÂNES - SEIGNEURS DES TÉNÈBRES - Von Carstein
+* Tome de Bataille de la Mort : Seigneurs Ruinemânes (4e édition) - SEIGNEURS DES TÉNÈBRES - Von Carstein
 
 [[Catégorie:Lieux des Seigneurs Ruinemânes]]
 [[Catégorie:Von Carstein]]
