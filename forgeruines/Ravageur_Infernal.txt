@@ -1,0 +1,19 @@
+Les [[Ravageur Infernal|Ravageurs Infernaux]] sont des duardins qui manient des armes à feu alimentées par l'essence des démons. Certains sont originaires de clans royaux, mais dans l'ensemble, ce sont de simples ouvriers qui cherchent à s'élever sur l'échelle sociale en optant pour un service militaire. On les reconnaît à leurs casques imitant les enclumes sur lesquelles ils forgent leurs armes, car comme tous les duardins, ils sont fiers de leur travail.<ref name="ri">Tome de Bataille du Chaos : Forgeruines de Hashut (4e édition) - GALERIE : LA FORGE ANATHÈME - Ravageurs Infernaux</ref>
+
+{{Citation AC
+|content = « Méprisez le démon ! Brisez le démon ! Précipitez-le dans le creuset des âmes ! Broyez-le sous le marteau des esprits ! Utilisez les âmes des fils de [[Grungni]] comme catalyseur ! [[Hashut]], Père des Ténèbres, béni sois-tu ! »
+|sign = Garokk, de la Citadelle Noire
+}}
+
+Beaucoup de Ravageurs utilisent des tromblons au rugissement assourdissant. Ils sont chargés avec de la chair vitrifiée de démon, qui forme des shrapnels qui mutilent le corps et l'âme, donnant lieu à des possessions démoniaques instantanées qui, si elles se dissipent aussitôt, laissent des séquelles atroces. Une salve de ces armes est assez puissante pour venir à bout d'un Mastauroc.<ref name="ri" />
+
+Les Éructe-flammes sont des armes chargées avec l'essence fondue de démons et sont une autre arme tristement célèbre des Ravageurs. Ce sont des versions miniatures des énormes éructe-flammes que les Zharrdrons utilisent pour brûler les terres. Elles furent testées sur des armures en gromril capturées, car si ces duardins méprisent ce métal associé à Grungni, il reste supérieur aux autres (sauf ceux des Zharrdrons, bien entendu).<ref name="ri" />
+
+Le feu d'un Éructe-flammes est doté d'une conscience haineuse et affamée. Il refuse d'être éteint, et bondit d'une cible à l'autre, s'infiltrant dans les jointures des armures. Même les ennemis les plus courageux reculent devant ces flammes tandis que les Zharrdrons progressent dans leur sillage, confiants dans le fait que le feu démoniaque n'osera par s'en prendre à eux.<ref name="ri" />
+
+<noinclude>
+== Sources ==
+<references/>
+
+[[Catégorie:Forces Forgeruines de Hashut]]
+</noinclude>

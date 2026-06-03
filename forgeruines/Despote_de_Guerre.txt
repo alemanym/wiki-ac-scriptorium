@@ -1,0 +1,17 @@
+Aucun duardin, même ceux sous l'emprise de [[Hashut]], ne suivrait un lâche au combat. À l'instar des Pères des Runes des Pyrotueurs et des Amiraux des Stratoports, les seigneurs de guerre des Zharrdrons commandent leurs troupes en personne. Leurs corps imbus de puissance maléfique sont protégés par d'épaisses cottes d'écailles. Leurs barbes soigneusement tressées sont maintenues par des anneaux runiques par-dessus leurs vêtements opulents. Leurs casques sont couronnés par les cornes du Père-Taureau tandis que leurs armes et leurs lames sont habitées par les âmes des démons les plus avides. Leur grandeur n'est égalée que par celle des [[Forgedémon|Forgedémons]], et à l'instar de ces derniers, les [[Despote de Guerre|Despotes de Guerre]] se considèrent comme les véritables maîtres des Zharrdrons.<ref name="dg">Tome de Bataille du Chaos : Forgeruines de Hashut (4e édition) - GALERIE : LA FORGE ANATHÈME - Despote de Guerre</ref>
+
+Les Despotes sont normalement originaires des clans royaux. Ce sont des aïeux cruels ou de jeunes princes ambitieux, des superviseurs de manufactures calculateurs ou des industriels richissimes, mais tous ont en commun leur influence et leur mépris envers ceux qui leur barrent la route. Ils ont graissé des pattes et comploté pour acquérir des armes et enrôler des guerriers, mais pour décupler leur puissance grâce au feu maudit, un Despote doit invariablement contracter un emprunt auprès d'un des Forgedémons de sa ziggourat. Cependant, les despotes rusés savent que les sorciers de Hashut ont besoin d'eux pour satisfaire leurs propres ambitions, c'est pourquoi ils parviennent toujours à trouver un terrain d'entente.<ref name="dg" />
+
+Même si son ost de guerre est généralement composé des guerriers de son clan, cela n'empêche pas un Despote de les considérer comme des objets dont il peut disposer. Il commande sans tolérer d'objection, tout contrevenant subissant sur-le-champ un châtiment cruel et inventif. Comme le taureau s'imposant face à ses rivaux, un Despote considère que la force brute est le meilleur moyen de s'imposer. Les Despotes les plus expérimentés ont participé à des centaines, voire des milliers de batailles, et ils n'hésitent pas à recourir à tous les ruses et stratagèmes, même les plus vils. De toute façon, leur ambition démesurée et le fait qu'ils ne reculent devant aucune bassesse justifient à leurs yeux leur droit de régner.<ref name="dg" />
+
+{{Citation AC
+|content = « Les seigneurs des clans viendront vous voir avec des paroles mielleuses pour bénéficier de vos services. Leurs demandes sont toujours les mêmes : de l'armement, aussi bien des canons pour laminer les terres que des armes individuelles pour ressentir personnellement le pouvoir courir dans leurs veines. Ils veulent s'assurer que les armures de leurs adversaires ne leur poseront aucun défi.<br /><br />Accédez à leurs désirs. Mettez toute votre ardeur à remplir les armureries des seigneurs de guerre et des barons de l'industrie. Faites en sorte qu'aucune rune n'égale la puissance des vôtres. Ainsi, ils deviendront vos obligés sans pouvoir annuler le contrat qui les liera à vous. Une arme peut toujours se briser. Une décision et ses conséquences durent éternellement. »
+|sign = Les Tablettes Brûlantes d'Urak Taar
+}}
+
+<noinclude>
+== Sources ==
+<references/>
+
+[[Catégorie:Forces Forgeruines de Hashut]]
+</noinclude>

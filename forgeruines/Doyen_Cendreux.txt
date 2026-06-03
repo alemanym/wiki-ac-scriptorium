@@ -1,0 +1,12 @@
+[[Hashut]] est un dieu exigeant et son clergé doit prendre soin de ses temples, et célébrer des offrandes sanglantes en son honneur. C'est le devoir des Drazghars, aussi appelés la [[:Catégorie:Secte Calcinée|Secte Calcinée]]. Même s'ils proviennent souvent des mêmes clans nobles que les [[Forgedémon|Forgedémons]], les membres de ce culte antique sont leurs rivaux. Leurs maîtres sont les [[Doyen Cendreux|Doyens Cendreux]], et ils sont affectés par la malédiction de sarcolithe, car Hashut partage ses secrets avec eux. Ils ne portent pas de couvre-chef élaboré, prétendument par humilité, pourtant leur soif de pouvoir est aussi grande que celle de leurs rivaux.<ref name="dc">Tome de Bataille du Chaos : Forgeruines de Hashut (4e édition) - GALERIE : LA FORGE ANATHÈME - Doyen Cendreux</ref>
+
+De la cendre tombe entre les crocs proéminents d'un Doyen Cendreux lorsqu'il entonne des prières en l'honneur de Hashut, et qu'il fait fondre les armures, le corps et l'âme de ses victimes. Il a pour mission de préserver les reliques de son dieu, notamment les redoutables Marteaux Noirs. Comme les matoirs, normalement symbole de [[Grungni]], sont méprisés par les fidèles de Hashut en tant qu'armes, les Marteaux Noirs sont une forme d'insulte, car ils ont été refroidis avec le sang d'un Forgerune ou d'un Âtreprêtre. Si une créature ne bénéficiant pas de la faveur du Père-Taureau saisit une de ces armes, son squelette se brise sur-le-champ, mais entre les mains d'un prêtre Drazghar, un Marteau Noir peut fendre le sol et aspirer la puissance des lignes telluriques brisées pour nourrir le Père-taureau et décupler les effets des prières du prêtre.<ref name="dc" />
+
+<noinclude>
+== Sources ==
+<references/>
+
+[[Catégorie:Forces Forgeruines de Hashut]]
+[[Catégorie:Secte Calcinée]]
+
+</noinclude>

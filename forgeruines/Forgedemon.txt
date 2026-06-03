@@ -1,0 +1,29 @@
+Les [[Forgedémon|Forgedémons]] sont au sommet de la [[Société Hashutite|société]] des Zharrdrons. Sans ces sorciers, les armes des enfants de [[Hashut]] deviendraient inutilisables, et sans ces armes, les duardins perdraient le pouvoir pour lequel ils ont accepté la damnation. Par conséquent, les Forgedémons vivent dans l'opulence, car ils sont peu nombreux, et essentiels au reste de leur société ; ils ont des clans entiers à leur botte. Des manufactures dans tous les [[Royaumes Mortels]] produisent des machines qui requièrent l'attention des Forgedémons, et ces derniers reçoivent en échange un lourd tribut. En dépit de leur puissance, ce sont des êtres amers qui ne cherchent qu'à satisfaire leurs ambitions, et qui s'accrochent au pouvoir malgré la corruption qu'il entraîne.<ref name="taurus">Tome de Bataille du Chaos : Forgeruines de Hashut (4e édition) - GALERIE : LA FORGE ANATHÈME - Forgedémon sur Taurus Infernal</ref>
+
+Peu de Zharrdrons savent manipuler la magie. La tradition exige que seuls ceux qui ont du sang royal héritent de ce don, et beaucoup de patriarches et matriarches tentent d'insuffler par divers moyens le pouvoir de la magie chez leur progéniture. Il existe aussi des rumeurs de barbiches de basse extraction qui manifestent des talents pour la sorcellerie, et qui sont adoptés de force par les maisons nobles. En effet, un clan ayant un membre doué pour la magie a un avantage considérable sur ses rivaux, surtout si le jeune sorcier parvient à s'assurer une position influente au sein du conseil de la ziggourat. Toutefois, les Forgedémons sont assoiffés de pouvoir, et n'hésitent pas à manipuler les membres de leur propre famille.<ref name="fd">Tome de Bataille du Chaos : Forgeruines de Hashut (4e édition) - GALERIE : LA FORGE ANATHÈME - Forgedémon</ref>
+
+Les clans placent comme apprentis leurs jeunes Forgedémons prometteurs auprès des vieux maîtres de leur ziggourat contre espèces sonnantes et trébuchantes. Même si tous les sorciers des Zharrdrons sont paranoïaques et renâclent à partager leurs connaissances, ils ont besoin de tels élèves. Un disciple doué accroît leur prestige, tandis que les incompétents disparaissent purement et simplement, bien que leurs maîtres parviennent souvent à en tirer quelques années de plus avant que la malédiction de la chair de pierre les emporte.<ref name="taurus" />
+
+Leur entraînement est implacable. Un acolyte doit réciter des incantations jusqu'à ce que sa langue noircisse et que le sang l'étouffe. Il grave des runes d'asservissement pendant des jours entiers, tout en sachant que la moindre erreur le verra dévoré par des démons. Un apprenti qui échoue est comme une arme dysfonctionnelle : inutile et bon à jeter. Ce traitement draconien extirpe toute trace de noblesse chez les Forgedémons, ce qui ne fait que les rendre plus aptes à assimiler les enseignements de Hashut.<ref name="taurus" />
+
+Les sorts d'un Forgedémon créent tout autant qu'ils détruisent. Leur feu maudit peut déformer et remodeler l'acier ou brûler vif ses victimes. Un Forgedémon use de ses pouvoirs en feignant le dédain, car il sait au fond de lui que son pouvoir est une arme dangereuse s'il est mal utilisé, mais qu'il peut servir ses ambitions s'il est manipulé avec adresse.<ref name="fd" />
+
+La magie d'un Forgedémon se manifeste sous la forme d'une fumée étouffante et de nuages de cendres qui écorchent les chairs ou dissimulent ses séides sous un linceul de ténèbres. Les sorciers invoquent les flammes de Hashut pour faire cuire les ennemis dans leurs armures ou accorder une résistance surnaturelle aux cottes d'écailles, en activant leurs inscriptions en zharralide. Les Forgedémons se rendent au combat avec des machines de guerre auxquelles ils insufflent leur puissance, et considèrent les actes de destruction qu'elles commettent comme des preuves de leur talent.<ref name="taurus" />
+
+{{Citation AC
+|content = « Le feu des forges faiblit. Leur soif de souffrance n'est pas étanchée, ce qui réduit leur efficacité de façon intolérable. Utilisez ces humains, faites que leur agonie soit lente. »
+|sign = Le Seigneur Burzhabal, avant le Massacre du Pic Maudit
+}}
+
+== Taurus Infernal ==
+
+Pour réellement prouver son talent, un Forgedémon doit fabriquer une machine d'une puissance terrifiante, généralement un Taurus Infernal. C'est une idole de destruction animée réalisée avec du jade, de l'obsidienne ou du bronze, et ayant l'apparence d'un énorme taureau maléfique. Ses flancs sont gravés de runes douloureuses à regarder. Lors de leur création, ces créatures sont baignées dans du sang, au milieu des chants des Drazghars. Ce rituel est nécessaire pour lier les âmes de centaines de démons captifs et furieux à l'enveloppe physique du Taurus Infernal. Il est néanmoins très dangereux, et il n'est pas rare que lors de sa célébration, le Taurus rue et que des ondes de flammes se propagent autour de lui.<ref name="taurus" />
+
+Un Forgedémon qui parvient à achever un Taurus Infernal est auréolé de gloire. Sa création sera exhibée au sommet du Grand Temple de Hashut qui couronne la ziggourat, voire sera conservé au cœur de son sanctuaire. En temps de guerre, le sorcier chevauchera sa statue animée et répétera les incantations gutturales qui lui ont donné vie. Un Taurus est un ouragan de destruction dénué de grâce. La chaleur terrifiante qui l'habite émane de lui en une aura mortelle. Ses battements d'ailes envoient des ondes brûlantes qui incinèrent la végétation et transforment les ennemis en statues de cendres. Enfin, la charge d'un Taurus est si violente qu'elle peut pulvériser un mur de boucliers Sigmarite comme une boule de feu cataclysmique.<ref name="taurus" />
+
+<noinclude>
+== Sources ==
+<references/>
+
+[[Catégorie:Forces Forgeruines de Hashut]]
+</noinclude>

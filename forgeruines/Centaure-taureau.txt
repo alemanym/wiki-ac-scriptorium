@@ -1,0 +1,25 @@
+Beaucoup de nouveau-nés des Zharrdrons sont affligés de mutations grotesques. Que ce soit le prix à payer pour être inféodé à [[Hashut]] ou qu'il s'agisse des conséquences des pollutions industrielles, cette malédiction afflige toutes les strates de la ziggourat, aussi bien les clans manufacturiers que ceux des sorciers. Le destin de ces bébés maudits est un mystère dont nul ne parle. Il existe cependant un type de mutant qui est non seulement accepté, mais aussi révéré : les [[Centaure-taureau|Centaures-taureaux]], des quadrupèdes aussi gros que des ogors.<ref name="ct">Tome de Bataille du Chaos : Forgeruines de Hashut (4e édition) - GALERIE : LA FORGE ANATHÈME - Centaures-taureaux</ref>
+
+La partie inférieure du corps d'un Centaure-taureau est celle d'un puissant taureau, alors que la partie supérieure est celle d'un duardin d'aspect sauvage et agressif. Les prêtres Drazghars disent que les premiers Centaures-taureaux furent créés par le Père des Ténèbres avant même la Grande Trahison, afin que ses enfants aient la force nécessaire pour dominer [[Ghur]]. Toutefois, il est aussi probable qu'ils soient simplement nés de la corruption des duardins, mais cela revient à remettre en question le pouvoir de Hashut, ce qui n'est guère avisé en présence des Zharrdrons.<ref name="ct" />
+
+Bien que bestiaux, les Centaures-taureaux sont loin d'être stupides. Ils sont rusés et tirent profit de leur statut de créatures sacrées. La [[:Catégorie:Secte Calcinée|Secte Calcinée]], qui commande aux Centaures-taureaux, encourage ce comportement en leur construisant des étables luxueuses sous les temples, et en les récompensant grassement en échange de leurs services comme troupes de choc fanatiquement loyales.<ref name="ct" />
+
+Les demeures des Centaures-taureaux sont donc opulentes, décorées de soieries et de dorures, néanmoins, étant donné leur nature violente, elles sont également souvent souillées de sang et de cadavres. De plus, le respect qu'on leur témoigne les pousse à développer un sentiment de supériorité délirant, au point de se prendre pour des dieux.<ref name="ct" />
+
+Contrairement à la plupart des Zharrdrons, auxquels on a inculqué les vertus de la discipline, les Centaures-taureaux ont recours à une force brute décomplexée. Ce sont d'excellents briseurs de lignes. Par conséquent, ils portent d'épaisses armures, et beuglent de façon assourdissante alors qu'ils piétinent les défenses ennemies. Les Centaures-taureaux s'estiment libres des obligations du [[Société Hashutite#Salaire de Labeur|Salaire de Labeur]], en dehors de celles qu'ils ont envers les maîtres de la Secte Calcinée et Hashut lui-même. Convaincus de leur invincibilité, ils ont tendance à choisir leurs proies sans le moindre esprit stratégique, et de toute façon, même les [[Forgedémon|Forgedémons]] n'oseraient pas les contredire.<ref name="ct" />
+
+{{Citation AC
+|content = Gorga percuta les Sylvaneths dans une pluie d'éclats de bois. Les armes en chêne de fer se brisaient sous ses sabots tandis qu'il galopait dans le vent chaud. De la sève maculait son armure. Il étendit les bras, ignorant les pointes de lances fichées dans son corps, et rit à gorge déployée.<br /><br />« Votre faiblesse est un blasphème ! Le grand Gorga aurait honte de vous laisser vivre ! »<br /><br />Il y eut un sifflement et comme un éclair. Gorga frémit alors que la flèche manquait son œil de peu et lui laissait une longue estafilade sur la joue. Une douleur vive précéda le flot de sang qui vint souiller sa barbe. Sa colère explosa. Il s'empara d'un aelfe qui titubait non loin, lui décocha un coup de tête et l'éventra sur ses défenses avant de le jeter au sol pour le piétiner. De la fumée sortait de ses naseaux, et son regard se posa sur un archer ailé à quelque distance de lui.<br /><br />« Tu as osé abîmer cette enveloppe sacrée ? Gorga va te montrer ce qu'est la douleur, vermisseau ! »
+}}
+
+== Sentinelle Consacrée ==
+
+Les Centaures-taureaux les plus honorés deviennent des Sentinelles Consacrées et protègent les temples avec une arrogance qui dépasse celle de leurs autres congénères. Ils reçoivent leurs ordres des [[Doyen Cendreux|Doyens Cendreux]], et récitent souvent les écritures Hashutites alors qu'ils éventrent les intrus. Des cors lugubres résonnent dans les étables des temples lorsqu'ils se préparent au combat : leur peau est enduite d'huiles sanglantes, et des heaumes Hashutaars sont révérencieusement posés sur leurs têtes. L'intérieur de ces casques est envahi par la fumée d'encens sacré des Drazghars appelé le "Souffle du Taureau". Elle calme les ardeurs des Centaures-taureaux afin de les rendre plus contrôlables. Sur le champ de bataille, les Sentinelles Consacrées protègent les chefs de guerre qui ont la faveur de la Secte Calcinée, tout en rapportant leurs faits et gestes à celle-ci, bien qu'il leur arrive de faire preuve d'initiative et de piétiner à mort les officiers qui, de leur point de vue, ne sont pas assez pieux.<ref name="ct" />
+
+<noinclude>
+== Sources ==
+<references/>
+
+[[Catégorie:Forces Forgeruines de Hashut]]
+[[Catégorie:Secte Calcinée]]
+</noinclude>
